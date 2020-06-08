@@ -18,7 +18,7 @@
 % Title page information.
 %%%
 \title{KEYA zpěvník 2020}
-\date{Verze: test-$\varepsilon$ (\today)}
+\date{Verze: test-$\zeta$ (\today)}
 %%%
 % Redefine fonts from SongBook style that I don't like.
 %%%
@@ -29,7 +29,7 @@
 % Define fonts to use in the headers and footers of the songbook.
 %%%
 \newcommand{\LHeadFont}{\normalsize}            % = cmr12  at 12pt
-\newcommand{\CHeadFont}{\normalsize\rm}         % = cmr12  at 12pt
+\newcommand{\CHeadFont}{\normalsize}         % = cmr12  at 12pt
 \newcommand{\RHeadFont}{\normalsize}            % = cmr12  at 12pt
 \newcommand{\LFootFont}{\scriptsize}            % = cmr8   at  8pt
 \newcommand{\CFootFont}{\tiny\myTinySF}         % = cmss8  at  8pt
@@ -40,7 +40,12 @@
 
 \begin{document}
 \maketitle
+\clearpage
+\begin{multicols}{2}
+\begin{footnotesize}
 \tableofcontents{}
+\end{footnotesize}
+\end{multicols}
 \clearpage
 \input{inputs.tex}
 \end{document}

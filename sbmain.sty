@@ -993,9 +993,9 @@ environment's documentation}
     \end{multicols*}
   \fi
   \ifSongEject%
-    \vfill\pagebreak%
+    \vfill%
   \else%
-    \SpaceAfterSong\pagebreak[1]%
+    \SpaceAfterSong%
   \fi%
   \ifExcludeSong\egroup\setbox2=\hbox{}\fi%
   \renewcommand{\SBinSongEnv}{\False}%
@@ -1399,9 +1399,9 @@ environment's documentation}
     \ifCompactSongMode
       \ifthenelse{\equal{#1}{N}}
       {\relax}
-      {\vfill\pagebreak}
+      {\vfill}
     \else
-      \vfill\pagebreak
+      \vfill
     \fi
   \fi}
 
@@ -1414,22 +1414,22 @@ environment's documentation}
   \ifWordsOnly%
     \relax%
   \else%
-    \pagebreak
+    
   \fi}
 
 \newcommand{\OHPageBrk}{%
   \ifOverhead%
-    \pagebreak
+    
   \fi}
 
 \newcommand{\WBPageBrk}{%
   \ifWordBk%
-    \pagebreak
+    
   \fi}
 
 \newcommand{\WOPageBrk}{%
   \ifWordsOnly%
-    \pagebreak
+    
   \fi}
 
 %%=======================================================%
