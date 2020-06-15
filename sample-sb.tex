@@ -13,14 +13,25 @@
 \usepackage{xkeyval}	% Inline todonotes
 \usepackage[textsize = footnotesize]{todonotes}
 \presetkeys{todonotes}{inline}{}
+%%pdf out
+\usepackage{pgfpages}                                 % <— load the package
+  \pgfpagesuselayout{2 on 1}[a4paper,landscape,border shrink=5mm] % <— set options
 
+\usepackage{atbegshi}
+        
+        %%solve this for makeindex
+        %\AtBeginShipout{\pgfpagesshipoutlogicalpage{1}\copy\AtBeginShipoutBox
+        %\pgfpagesshipoutlogicalpage{2}\box\AtBeginShipoutBox
+        %\pgfshipoutphysicalpage}
+
+%%/pdfout
 %%%
 % Title page information.
 %%%
 \title{KEYA zpěvník 2020}
-\date{Verze: test-$\zeta$ (\today)}
+\date{Verze: 1.0 (\today)}
 %%%
-% Redefine fonts from SongBook style that I don't like.
+% Redefine fonts from SongBook style that are not likely
 %%%
 \font\myTinySF=cmss8 at 8pt
 \renewcommand{\CpyRtInfoFont}{\tiny\myTinySF}
@@ -44,6 +55,7 @@
 \begin{multicols}{2}
 \begin{footnotesize}
 \tableofcontents{}
+%\columnbreak%maybe
 \end{footnotesize}
 \end{multicols}
 \clearpage
