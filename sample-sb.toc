@@ -8,9 +8,9 @@
 \contentsline {subsection}{Bláznova ukolébavka}{10}%
 \contentsline {subsection}{Bratříčku, zavírej vrátka}{11}%
 \contentsline {subsection}{Čarodějnice z Amesbury}{12}%
+\contentsline {subsection}{Cestou do Jenkovic}{14}%
 \contentsline {subsection}{Černá díra}{15}%
 \contentsline {subsection}{Černej pasažér}{16}%
-\contentsline {subsection}{Cestou do Jenkovic}{14}%
 \contentsline {subsection}{Dál, dál, dál}{17}%
 \contentsline {subsection}{Darmodej}{18}%
 \contentsline {subsection}{Dej mi víc své lásky}{19}%
