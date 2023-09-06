@@ -1,0 +1,79 @@
+\documentclass[twoside,12pt,a5paper]{article}
+\usepackage[a5paper]{geometry}
+\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}	
+\usepackage{epsfig}
+\usepackage[chordbk]{sbmain}
+\usepackage{multicol}
+\cfoot{}
+\usepackage{xkeyval}	% Inline todonotes
+\usepackage[textsize = footnotesize]{todonotes}
+\presetkeys{todonotes}{inline}{}
+
+\title{KEYA zpěvník 2020 s notami}
+\date{Verze: 1.2$\gamma$ (\today)}
+%%%
+% Redefine fonts from SongBook style
+%%%
+\font\myTinySF=cmss8 at 8pt
+\renewcommand{\CpyRtInfoFont}{\tiny\myTinySF}
+
+%%%
+% Define fonts to use in the headers and footers of the songbook.
+%%%
+\newcommand{\LHeadFont}{\normalsize}            % = cmr12  at 12pt
+\newcommand{\CHeadFont}{\normalsize}         % = cmr12  at 12pt
+\newcommand{\RHeadFont}{\normalsize}            % = cmr12  at 12pt
+\newcommand{\LFootFont}{\scriptsize}            % = cmr8   at  8pt
+\newcommand{\CFootFont}{\tiny\myTinySF}         % = cmss8  at  8pt
+\newcommand{\RFootFont}{\scriptsize}            % = cmr8   at  8pt
+
+\fancyhead[LE,RO]{\CHeadFont{KEYA zpěvník 2020}}
+\fancyhead[CE,CO]{\CHeadFont\thepage}
+
+\begin{document}
+\maketitle
+\begin{center}
+
+
+\includegraphics[width=0.8\textwidth]{pict/noty} 
+
+
+\end{center}
+
+
+\begin{center}
+
+
+\includegraphics[width=0.4\textwidth]{pict/logo}
+
+
+\end{center}
+\cleardoublepage
+\begin{multicols}{2}
+\begin{footnotesize}
+\tableofcontents{}
+%\columnbreak%maybe
+\end{footnotesize}
+\end{multicols}
+\clearpage
+\input{inputs-noty.tex}
+\clearpage
+
+\begin{center}
+\section{Prehled akordu}
+\includegraphics[width=\textwidth]{noty/akordy} 
+\end{center}
+\clearpage
+
+\begin{center}
+\section{Prehled rytmu}
+\includegraphics[width=\textwidth]{noty/rytmy} 
+\end{center}
+\clearpage
+
+\end{document}
