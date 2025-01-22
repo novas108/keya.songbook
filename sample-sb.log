@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.8.1)  3 AUG 2023 17:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.26)  22 JAN 2025 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -701,9 +701,14 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 LaTeX Warning: No \author given.
 
+<pict/vejvar.png, id=29, 1850.41313pt x 1312.15219pt>
+File: pict/vejvar.png Graphic file (type png)
+<use pict/vejvar.png>
+Package pdftex.def Info: pict/vejvar.png  used on input line 42.
+(pdftex.def)             Requested size: 301.5992pt x 213.85289pt.
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pict/vejvar.png>]
 
 Package Fancyhdr Warning: \footskip is too small (13.73131pt): 
 Make it at least 14.49998pt.
@@ -747,7 +752,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (./song/a_bratříčku-zavírej-vrátka.tex [11
 
 ]) (./song/a_carodejnice.tex
-<pict/carodejnice_z_amesbury.jpg, id=74, 227.1687pt x 304.9794pt>
+<pict/carodejnice_z_amesbury.jpg, id=75, 227.1687pt x 304.9794pt>
 File: pict/carodejnice_z_amesbury.jpg Graphic file (type jpg)
 <use pict/carodejnice_z_amesbury.jpg>
 Package pdftex.def Info: pict/carodejnice_z_amesbury.jpg  used on input line 92
@@ -775,7 +780,7 @@ This may cause the page layout to be inconsistent, however.
 [20
 
 ] (./song/a_divoké-koně.tex
-<pict/divoci_kone.jpg, id=107, 476.0184pt x 271.9761pt>
+<pict/divoci_kone.jpg, id=108, 476.0184pt x 271.9761pt>
 File: pict/divoci_kone.jpg Graphic file (type jpg)
 <use pict/divoci_kone.jpg>
 Package pdftex.def Info: pict/divoci_kone.jpg  used on input line 50.
@@ -836,7 +841,7 @@ pu|[][]
 
 ]
 (./song/a_o-amalém-rytíři.tex [58]
-<pict/asi-rytíř.jpg, id=229, 246.4407pt x 246.9225pt>
+<pict/asi-rytíř.jpg, id=230, 246.4407pt x 246.9225pt>
 File: pict/asi-rytíř.jpg Graphic file (type jpg)
 <use pict/asi-rytíř.jpg>
 Package pdftex.def Info: pict/asi-rytíř.jpg  used on input line 112.
@@ -945,12 +950,11 @@ Overfull \hbox (15.1973pt too wide) in paragraph at lines 8--9
 ) [112] (./song/b_Posba-k-Duchu-svatému.tex) (./song/b_Prijímám.tex [113])
 (./song/b_Prijmi-pane.tex) [114
 
-] (./song/b_Přijmi-pane.tex) [114]
-(./song/b_Připravujte-cestu.tex) [115] (./song/b_Půjdeš-li-pouští.tex)
-(./song/b_Slunce-kristovy-lásky.tex) (./song/b_Spoj-nás-v-jedno.tex) [116]
-(./song/b_Světem-běžím-dál.tex) (./song/b_Svorni-jsme.tex)
-(./song/b_Svý-kroky-rozezpívej.tex [117]) (./song/b_Tobě-patří-chvála.tex
-[118
+] (./song/b_Připravujte-cestu.tex) [115]
+(./song/b_Půjdeš-li-pouští.tex) (./song/b_Slunce-kristovy-lásky.tex)
+(./song/b_Spoj-nás-v-jedno.tex) [116] (./song/b_Světem-běžím-dál.tex)
+(./song/b_Svorni-jsme.tex) (./song/b_Svý-kroky-rozezpívej.tex [117])
+(./song/b_Tobě-patří-chvála.tex [118
 
 ]) (./song/b_Vše-co-mohu-dát.tex
 Overfull \hbox (10.24445pt too wide) in paragraph at lines 14--15
@@ -963,10 +967,10 @@ Overfull \hbox (10.24445pt too wide) in paragraph at lines 14--15
 
 ])) (./sample-sb.aux) ) 
 Here is how much of TeX's memory you used:
- 14987 strings out of 482368
- 295835 string characters out of 5941919
- 536974 words of memory out of 5000000
- 29369 multiletter control sequences out of 15000+600000
+ 14991 strings out of 482368
+ 295880 string characters out of 5941918
+ 536973 words of memory out of 5000000
+ 29375 multiletter control sequences out of 15000+600000
  604334 words of font info for 68 fonts, out of 8000000 for 9000
  428 hyphenation exceptions out of 8191
  68i,13n,83p,447b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -983,10 +987,10 @@ re/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm
 f/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss
 12.pfb></usr/share/texmf/fonts/type1/public/lm/lmssdc10.pfb></usr/share/texmf/f
 onts/type1/public/lm/lmsy10.pfb>
-Output written on sample-sb.pdf (123 pages, 1706575 bytes).
+Output written on sample-sb.pdf (122 pages, 1969152 bytes).
 PDF statistics:
- 498 PDF objects out of 1000 (max. 8388607)
- 335 compressed objects within 4 object streams
+ 496 PDF objects out of 1000 (max. 8388607)
+ 333 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 124 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 

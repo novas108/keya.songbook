@@ -113,11 +113,10 @@
 \contentsline {subsection}{Prosba k duchu svatému}{113}%
 \contentsline {subsection}{Příjmám}{113}%
 \contentsline {subsection}{Přijmi, Pane}{114}%
-\contentsline {subsection}{Přijmi, Pane}{114}%
 \contentsline {subsection}{Připravujte cestu}{115}%
 \contentsline {subsection}{Půjdeš-li pouští}{116}%
 \contentsline {subsection}{Slunce Kristovy lásky}{116}%
-\contentsline {subsection}{Spojnás v jedno, Pane}{116}%
+\contentsline {subsection}{Spoj nás v jedno, Pane}{116}%
 \contentsline {subsection}{Světem běžím dál}{117}%
 \contentsline {subsection}{Svorni jsme}{117}%
 \contentsline {subsection}{Svý kroky rozezpívej}{118}%

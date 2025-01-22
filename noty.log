@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.8.1)  7 SEP 2023 00:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.26)  22 JAN 2025 19:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -726,15 +726,20 @@ This may cause the page layout to be inconsistent, however.
 ] (./noty.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 3.
- [3])
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+ [] []\OT1/lmr/bx/n/10 P[]rehled me-t-ro-no-mic- 
+ []
+
+)
 \tf@toc=\write4
 \openout4 = `noty.toc'.
 
- [4] (./inputs-noty.tex (./noty/a_aa.tex)
-(./noty/a_amazonka.tex
+ [4] (./inputs-noty.tex (./noty/a_aa.tex) (./noty/a_amazonka.tex
 LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 
 2.
- (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
+
+(/usr/share/texmf/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 <noty/a_amazonka.jpeg, id=51, 328.5876pt x 355.0866pt>
@@ -744,7 +749,8 @@ Package pdftex.def Info: noty/a_amazonka.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 325.94131pt.
 ) [5
 
- <./noty/a_amazonka.jpeg>] (./noty/a_batalion.tex
+ <./noty/a_amazonka.jpeg>]
+(./noty/a_batalion.tex
 <noty/a_batalion.jpg, id=56, 361.35pt x 395.076pt>
 File: noty/a_batalion.jpg Graphic file (type jpg)
 <use noty/a_batalion.jpg>
@@ -806,84 +812,101 @@ File: noty/a_divoké-koně.jpg Graphic file (type jpg)
 Package pdftex.def Info: noty/a_divoké-koně.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 202.58179pt.
 ) [21 <./noty/a_divoké-koně.jpg>]
-(./noty/a_fi-li-mi.tex
-<noty/a_fi-li-mi.jpg, id=90, 332.442pt x 218.2554pt>
+(./noty/a_donald-macgallavry.tex
+<noty/a_donald-macgallavry-1.jpeg, id=90, 298.716pt x 337.26pt>
+File: noty/a_donald-macgallavry-1.jpeg Graphic file (type jpg)
+<use noty/a_donald-macgallavry-1.jpeg>
+Package pdftex.def Info: noty/a_donald-macgallavry-1.jpeg  used on input line 3
+.
+(pdftex.def)             Requested size: 217.15178pt x 245.1788pt.
+<noty/a_donald-macgallavry-2.jpeg, id=91, 298.716pt x 334.3692pt>
+File: noty/a_donald-macgallavry-2.jpeg Graphic file (type jpg)
+<use noty/a_donald-macgallavry-2.jpeg>
+Package pdftex.def Info: noty/a_donald-macgallavry-2.jpeg  used on input line 4
+.
+(pdftex.def)             Requested size: 226.19939pt x 253.20485pt.
+) [22 <./noty/a_donald-macgallavry-1.jpeg> <./noty/a_donald-macgallavry-2.jpeg>
+] (./noty/a_fi-li-mi.tex
+<noty/a_fi-li-mi.jpg, id=95, 332.442pt x 218.2554pt>
 File: noty/a_fi-li-mi.jpg Graphic file (type jpg)
 <use noty/a_fi-li-mi.jpg>
 Package pdftex.def Info: noty/a_fi-li-mi.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 198.00659pt.
-) [24 <./noty/a_fi-li-mi.jpg>]
-(./noty/a_frankie-dlouhán.tex
-<noty/a_frankie-dlouhán.jpg, id=94, 351.2322pt x 400.3758pt>
+) [24 <./noty/a_fi-li-mi.jpg>] (./noty/a_frankie-dlouhán.tex
+<noty/a_frankie-dlouhán.jpg, id=99, 351.2322pt x 400.3758pt>
 File: noty/a_frankie-dlouhán.jpg Graphic file (type jpg)
 <use noty/a_frankie-dlouhán.jpg>
 Package pdftex.def Info: noty/a_frankie-dlouhán.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 343.80939pt.
 ) [25 <./noty/a_frankie-dlouhán.jpg>]
 (./noty/a_hlídač-krav.tex
-<noty/a_hlídač-krav.jpg, id=98, 346.896pt x 298.2342pt>
+<noty/a_hlídač-krav.jpg, id=103, 346.896pt x 298.2342pt>
 File: noty/a_hlídač-krav.jpg Graphic file (type jpg)
 <use noty/a_hlídač-krav.jpg>
 Package pdftex.def Info: noty/a_hlídač-krav.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 259.30238pt.
 ) [26 <./noty/a_hlídač-krav.jpg>]
 (./noty/a_ho-ho-watanay.tex
-<noty/a_ho-ho-watanay.jpg, id=102, 359.9046pt x 305.4612pt>
+<noty/a_ho-ho-watanay.jpg, id=107, 359.9046pt x 305.4612pt>
 File: noty/a_ho-ho-watanay.jpg Graphic file (type jpg)
 <use noty/a_ho-ho-watanay.jpg>
 Package pdftex.def Info: noty/a_ho-ho-watanay.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 255.99371pt.
 ) [27 <./noty/a_ho-ho-watanay.jpg>]
 (./noty/a_hospoda-u-davida.tex
-<noty/a_hospoda-u-davida.jpeg, id=106, 327.624pt x 581.0508pt>
+<noty/a_hospoda-u-davida.jpeg, id=111, 327.624pt x 581.0508pt>
 File: noty/a_hospoda-u-davida.jpeg Graphic file (type jpg)
 <use noty/a_hospoda-u-davida.jpeg>
 Package pdftex.def Info: noty/a_hospoda-u-davida.jpeg  used on input line 4.
 (pdftex.def)             Requested size: 271.43742pt x 481.43863pt.
 ) [28 <./noty/a_hospoda-u-davida.jpeg>]
 (./noty/a_hrobař.tex
-<noty/a_hrobař.jpg, id=110, 325.6968pt x 358.4592pt>
+<noty/a_hrobař.jpg, id=116, 325.6968pt x 358.4592pt>
 File: noty/a_hrobař.jpg Graphic file (type jpg)
 <use noty/a_hrobař.jpg>
 Package pdftex.def Info: noty/a_hrobař.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 331.9415pt.
-) [30 <./noty/a_hrobař.jpg>]
-(./noty/a_hudsonský-šífy.tex
-<noty/a_hudsonský-šífy.jpg, id=115, 351.2322pt x 381.5856pt>
+) [30 <./noty/a_hrobař.jpg>] (./noty/a_hučka.tex
+<noty/a_hučka.jpeg, id=120, 318.34935pt x 537.32745pt>
+File: noty/a_hučka.jpeg Graphic file (type jpg)
+<use noty/a_hučka.jpeg>
+Package pdftex.def Info: noty/a_hučka.jpeg  used on input line 4.
+(pdftex.def)             Requested size: 280.93523pt x 474.17047pt.
+)
+[32 <./noty/a_hučka.jpeg>] (./noty/a_hudsonský-šífy.tex
+<noty/a_hudsonský-šífy.jpg, id=124, 351.2322pt x 381.5856pt>
 File: noty/a_hudsonský-šífy.jpg Graphic file (type jpg)
 <use noty/a_hudsonský-šífy.jpg>
 Package pdftex.def Info: noty/a_hudsonský-šífy.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 327.67393pt.
-) [33 <./noty/a_hudsonský-šífy.jpg>]
-(./noty/a_jarní-kurýr.tex
-<noty/a_jarní-kurýr.jpg, id=119, 299.6796pt x 212.9556pt>
+) [33 <./noty/a_hudsonský-šífy.jpg>] (./noty/a_jarní-kurýr.tex
+<noty/a_jarní-kurýr.jpg, id=128, 299.6796pt x 212.9556pt>
 File: noty/a_jarní-kurýr.jpg Graphic file (type jpg)
 <use noty/a_jarní-kurýr.jpg>
 Package pdftex.def Info: noty/a_jarní-kurýr.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 214.33281pt.
-) [34 <./noty/a_jarní-kurýr.jpg>]
-(./noty/a_jarní-tání.tex
-<noty/a_jarní-tání.jpg, id=123, 357.0138pt x 383.5128pt>
+) [34 <./noty/a_jarní-kurýr.jpg>] (./noty/a_jarní-tání.tex
+<noty/a_jarní-tání.jpg, id=132, 357.0138pt x 383.5128pt>
 File: noty/a_jarní-tání.jpg Graphic file (type jpg)
 <use noty/a_jarní-tání.jpg>
 Package pdftex.def Info: noty/a_jarní-tání.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 323.9919pt.
 ) [35 <./noty/a_jarní-tání.jpg>]
 (./noty/a_jaro.tex
-<noty/a_jaro.jpg, id=127, 354.6048pt x 348.8232pt>
+<noty/a_jaro.jpg, id=136, 354.6048pt x 348.8232pt>
 File: noty/a_jaro.jpg Graphic file (type jpg)
 <use noty/a_jaro.jpg>
 Package pdftex.def Info: noty/a_jaro.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 296.68741pt.
 ) [36 <./noty/a_jaro.jpg>] (./noty/a_jasný-jak-facka.tex
-<noty/a_jasný-jak-facka.jpeg, id=131, 328.5876pt x 576.2328pt>
+<noty/a_jasný-jak-facka.jpeg, id=141, 328.5876pt x 576.2328pt>
 File: noty/a_jasný-jak-facka.jpeg Graphic file (type jpg)
 <use noty/a_jasný-jak-facka.jpeg>
 Package pdftex.def Info: noty/a_jasný-jak-facka.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 271.43742pt x 476.03978pt.
 )
 [37 <./noty/a_jasný-jak-facka.jpeg>] (./noty/a_já-s-tebou-žít-nebudu.tex
-<noty/a_já-s-tebou-žít-nebudu.jpg, id=135, 528.5346pt x 682.2288pt>
+<noty/a_já-s-tebou-žít-nebudu.jpg, id=145, 528.5346pt x 682.2288pt>
 File: noty/a_já-s-tebou-žít-nebudu.jpg Graphic file (type jpg)
 <use noty/a_já-s-tebou-žít-nebudu.jpg>
 Package pdftex.def Info: noty/a_já-s-tebou-žít-nebudu.jpg  used on input lin
@@ -892,7 +915,7 @@ e 3.
 )
 [38 <./noty/a_já-s-tebou-žít-nebudu.jpg>]
 (./noty/a_jdem-zpátky-do-lesů.tex
-<noty/a_jdem-zpátky-do-lesů.jpg, id=140, 355.5684pt x 733.7814pt>
+<noty/a_jdem-zpátky-do-lesů.jpg, id=149, 355.5684pt x 733.7814pt>
 File: noty/a_jdem-zpátky-do-lesů.jpg Graphic file (type jpg)
 <use noty/a_jdem-zpátky-do-lesů.jpg>
 Package pdftex.def Info: noty/a_jdem-zpátky-do-lesů.jpg  used on input line 4
@@ -900,242 +923,249 @@ Package pdftex.def Info: noty/a_jdem-zpátky-do-lesů.jpg  used on input line 4
 (pdftex.def)             Requested size: 241.28027pt x 497.92346pt.
 ) [39 <./noty/a_jdem-zpátky-do-lesů.jpg>]
 (./noty/a_jdou-po-mě-jdou.tex
-<noty/a_jdou-po-mě-jdou.jpg, id=144, 348.3414pt x 329.5512pt>
+<noty/a_jdou-po-mě-jdou.jpg, id=153, 348.3414pt x 329.5512pt>
 File: noty/a_jdou-po-mě-jdou.jpg Graphic file (type jpg)
 <use noty/a_jdou-po-mě-jdou.jpg>
 Package pdftex.def Info: noty/a_jdou-po-mě-jdou.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 285.3495pt.
 ) [40 <./noty/a_jdou-po-mě-jdou.jpg>]
 (./noty/a_když-mě-brali-za-vojáka.tex
-<noty/a_když-mě-brali-za-vojáka.jpg, id=148, 352.6776pt x 210.5466pt>
+<noty/a_když-mě-brali-za-vojáka.jpg, id=157, 352.6776pt x 210.5466pt>
 File: noty/a_když-mě-brali-za-vojáka.jpg Graphic file (type jpg)
 <use noty/a_když-mě-brali-za-vojáka.jpg>
 Package pdftex.def Info: noty/a_když-mě-brali-za-vojáka.jpg  used on input l
 ine 3.
 (pdftex.def)             Requested size: 301.5992pt x 180.06097pt.
 ) [41 <./noty/a_když-mě-brali-za-vojáka.jpg>] (./noty/a_kluziště.tex
-<noty/a_kluziště.jpg, id=152, 319.9152pt x 325.6968pt>
+<noty/a_kluziště.jpg, id=161, 319.9152pt x 325.6968pt>
 File: noty/a_kluziště.jpg Graphic file (type jpg)
 <use noty/a_kluziště.jpg>
 Package pdftex.def Info: noty/a_kluziště.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 307.05455pt.
 ) [42 <./noty/a_kluziště.jpg>]
 (./noty/a_kometa.tex
-<noty/a_kometa.jpg, id=156, 346.4142pt x 313.17pt>
+<noty/a_kometa.jpg, id=166, 346.4142pt x 313.17pt>
 File: noty/a_kometa.jpg Graphic file (type jpg)
 <use noty/a_kometa.jpg>
 Package pdftex.def Info: noty/a_kometa.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 272.66116pt.
 ) [43 <./noty/a_kometa.jpg>] (./noty/a_kozel.tex
-<noty/a_kozel.jpg, id=160, 348.3414pt x 289.5618pt>
+<noty/a_kozel.jpg, id=170, 348.3414pt x 289.5618pt>
 File: noty/a_kozel.jpg Graphic file (type jpg)
 <use noty/a_kozel.jpg>
 Package pdftex.def Info: noty/a_kozel.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 250.72377pt.
 ) [44 <./noty/a_kozel.jpg>] (./noty/a_krtek.tex
-<noty/a_krtek.jpg, id=165, 676.5275pt x 848.16875pt>
+<noty/a_krtek.jpg, id=174, 676.5275pt x 848.16875pt>
 File: noty/a_krtek.jpg Graphic file (type jpg)
 <use noty/a_krtek.jpg>
 Package pdftex.def Info: noty/a_krtek.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 378.1263pt.
 ) [45 <./noty/a_krtek.jpg>]
 (./noty/a_lodníkův-lament.tex
-<noty/a_lodníkův-lament.jpeg, id=169, 328.5876pt x 376.2858pt>
+<noty/a_lodníkův-lament.jpeg, id=178, 328.5876pt x 376.2858pt>
 File: noty/a_lodníkův-lament.jpeg Graphic file (type jpg)
 <use noty/a_lodníkův-lament.jpeg>
 Package pdftex.def Info: noty/a_lodníkův-lament.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 345.40051pt.
 ) [46 <./noty/a_lodníkův-lament.jpeg>]
 (./noty/a_marsyas-a-apollon.tex
-<noty/a_marsyas-a-apollon.jpg, id=173, 495.2904pt x 447.1104pt>
+<noty/a_marsyas-a-apollon.jpg, id=182, 495.2904pt x 447.1104pt>
 File: noty/a_marsyas-a-apollon.jpg Graphic file (type jpg)
 <use noty/a_marsyas-a-apollon.jpg>
 Package pdftex.def Info: noty/a_marsyas-a-apollon.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 272.25937pt.
 ) [50 <./noty/a_marsyas-a-apollon.jpg>]
 (./noty/a_mezi-horami.tex
-<noty/a_mezi-horami.jpg, id=177, 322.3242pt x 121.8954pt>
+<noty/a_mezi-horami.jpg, id=186, 322.3242pt x 121.8954pt>
 File: noty/a_mezi-horami.jpg Graphic file (type jpg)
 <use noty/a_mezi-horami.jpg>
 Package pdftex.def Info: noty/a_mezi-horami.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 114.06088pt.
 ) [51 <./noty/a_mezi-horami.jpg>] (./noty/a_mlýny.tex
-<noty/a_mlýny.jpg, id=181, 350.7504pt x 422.5386pt>
+<noty/a_mlýny.jpg, id=191, 350.7504pt x 422.5386pt>
 File: noty/a_mlýny.jpg Graphic file (type jpg)
 <use noty/a_mlýny.jpg>
 Package pdftex.def Info: noty/a_mlýny.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 363.35677pt.
 ) [52 <./noty/a_mlýny.jpg>] (./noty/a_montgomery.tex
-<noty/a_montgomery.jpg, id=185, 351.2322pt x 255.354pt>
+<noty/a_montgomery.jpg, id=195, 351.2322pt x 255.354pt>
 File: noty/a_montgomery.jpg Graphic file (type jpg)
 <use noty/a_montgomery.jpg>
 Package pdftex.def Info: noty/a_montgomery.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 219.27676pt.
 ) [53 <./noty/a_montgomery.jpg>] (./noty/a_morituri-te-salutant.tex
-<noty/a_morituri-te-salutant.jpg, id=190, 355.5684pt x 398.9304pt>
+<noty/a_morituri-te-salutant.jpg, id=199, 355.5684pt x 398.9304pt>
 File: noty/a_morituri-te-salutant.jpg Graphic file (type jpg)
 <use noty/a_morituri-te-salutant.jpg>
 Package pdftex.def Info: noty/a_morituri-te-salutant.jpg  used on input line 3.
 
 (pdftex.def)             Requested size: 301.5992pt x 338.38023pt.
 ) [54 <./noty/a_morituri-te-salutant.jpg>] (./noty/a_nosorožec.tex
-<noty/a_nosorožec.jpg, id=194, 321.8424pt x 330.5148pt>
+<noty/a_nosorožec.jpg, id=203, 321.8424pt x 330.5148pt>
 File: noty/a_nosorožec.jpg Graphic file (type jpg)
 <use noty/a_nosorožec.jpg>
 Package pdftex.def Info: noty/a_nosorožec.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 309.75093pt.
 ) [57 <./noty/a_nosorožec.jpg>]
 (./noty/a_ohníčky.tex
-<noty/a_ohníčky.jpg, id=198, 544.9158pt x 698.8509pt>
+<noty/a_ohníčky.jpg, id=207, 544.9158pt x 698.8509pt>
 File: noty/a_ohníčky.jpg Graphic file (type jpg)
 <use noty/a_ohníčky.jpg>
 Package pdftex.def Info: noty/a_ohníčky.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 386.80048pt.
 ) [60 <./noty/a_ohníčky.jpg>]
 (./noty/a_o-zlaté-rybce.tex
-<noty/a_o-zlaté-rybce.jpeg, id=202, 309.3156pt x 337.26pt>
+<noty/a_o-zlaté-rybce.jpeg, id=211, 309.3156pt x 337.26pt>
 File: noty/a_o-zlaté-rybce.jpeg Graphic file (type jpg)
 <use noty/a_o-zlaté-rybce.jpeg>
 Package pdftex.def Info: noty/a_o-zlaté-rybce.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 328.84518pt.
 ) [63 <./noty/a_o-zlaté-rybce.jpeg>]
+(./noty/a_pánové-nahoře.tex
+<noty/a_pánové-nahoře.jpg, id=216, 386.8854pt x 647.7801pt>
+File: noty/a_pánové-nahoře.jpg Graphic file (type jpg)
+<use noty/a_pánové-nahoře.jpg>
+Package pdftex.def Info: noty/a_pánové-nahoře.jpg  used on input line 4.
+(pdftex.def)             Requested size: 283.20915pt x 474.17047pt.
+) [64 <./noty/a_pánové-nahoře.jpg>]
 (./noty/a_petěnburg.tex
-<noty/a_petěnburg.jpg, id=206, 363.2772pt x 273.1806pt>
+<noty/a_petěnburg.jpg, id=220, 363.2772pt x 273.1806pt>
 File: noty/a_petěnburg.jpg Graphic file (type jpg)
 <use noty/a_petěnburg.jpg>
 Package pdftex.def Info: noty/a_petěnburg.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 226.81485pt.
 ) [65 <./noty/a_petěnburg.jpg>]
 (./noty/a_pískající-cikán.tex
-<noty/a_pískající-cikán.jpg, id=210, 334.3692pt x 226.446pt>
+<noty/a_pískající-cikán.jpg, id=224, 334.3692pt x 226.446pt>
 File: noty/a_pískající-cikán.jpg Graphic file (type jpg)
 <use noty/a_pískající-cikán.jpg>
 Package pdftex.def Info: noty/a_pískající-cikán.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 204.26596pt.
 ) [66 <./noty/a_pískající-cikán.jpg>]
 (./noty/a_pohár-a-kalich.tex
-<noty/a_pohár-a-kalich.jpg, id=215, 499.1448pt x 584.9052pt>
+<noty/a_pohár-a-kalich.jpg, id=228, 499.1448pt x 584.9052pt>
 File: noty/a_pohár-a-kalich.jpg Graphic file (type jpg)
 <use noty/a_pohár-a-kalich.jpg>
 Package pdftex.def Info: noty/a_pohár-a-kalich.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 353.42696pt.
 ) [67 <./noty/a_pohár-a-kalich.jpg>]
 (./noty/a_pošťák.tex
-<noty/a_pošťák.jpeg, id=219, 331.9602pt x 402.0621pt>
+<noty/a_pošťák.jpeg, id=233, 331.9602pt x 402.0621pt>
 File: noty/a_pošťák.jpeg Graphic file (type jpg)
 <use noty/a_pošťák.jpeg>
 Package pdftex.def Info: noty/a_pošťák.jpeg  used on input line 2.
 (pdftex.def)             Requested size: 301.5992pt x 365.31265pt.
 ) [68 <./noty/a_pošťák.jpeg>]
 (./noty/a_pověste-ho-vejš.tex
-<noty/a_pověste-ho-vejš.jpg, id=223, 494.3268pt x 764.1348pt>
+<noty/a_pověste-ho-vejš.jpg, id=237, 494.3268pt x 764.1348pt>
 File: noty/a_pověste-ho-vejš.jpg Graphic file (type jpg)
 <use noty/a_pověste-ho-vejš.jpg>
 Package pdftex.def Info: noty/a_pověste-ho-vejš.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 466.22647pt.
 ) [69 <./noty/a_pověste-ho-vejš.jpg>]
 (./noty/a_prší.tex
-<noty/a_prší.jpg, id=227, 317.988pt x 267.8808pt>
+<noty/a_prší.jpg, id=242, 317.988pt x 267.8808pt>
 File: noty/a_prší.jpg Graphic file (type jpg)
 <use noty/a_prší.jpg>
 Package pdftex.def Info: noty/a_prší.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 254.08882pt.
 ) [71 <./noty/a_prší.jpg>] (./noty/a_ráda-se-miluje.tex
-<noty/a_ráda-se-miluje.jpg, id=232, 597.73312pt x 722.7pt>
+<noty/a_ráda-se-miluje.jpg, id=246, 597.73312pt x 722.7pt>
 File: noty/a_ráda-se-miluje.jpg Graphic file (type jpg)
 <use noty/a_ráda-se-miluje.jpg>
 Package pdftex.def Info: noty/a_ráda-se-miluje.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 364.65735pt.
 ) [72 <./noty/a_ráda-se-miluje.jpg>] (./noty/a_rána-v-trávě.tex
-<noty/a_rána-v-trávě.jpg, id=236, 488.5452pt x 277.035pt>
+<noty/a_rána-v-trávě.jpg, id=250, 488.5452pt x 277.035pt>
 File: noty/a_rána-v-trávě.jpg Graphic file (type jpg)
 <use noty/a_rána-v-trávě.jpg>
 Package pdftex.def Info: noty/a_rána-v-trávě.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 171.02861pt.
 ) [73 <./noty/a_rána-v-trávě.jpg>] (./noty/a_rosa-na-kolejích.tex
-<noty/a_rosa-na-kolejích.jpg, id=241, 355.5684pt x 887.4756pt>
+<noty/a_rosa-na-kolejích.jpg, id=254, 355.5684pt x 887.4756pt>
 File: noty/a_rosa-na-kolejích.jpg Graphic file (type jpg)
 <use noty/a_rosa-na-kolejích.jpg>
 Package pdftex.def Info: noty/a_rosa-na-kolejích.jpg  used on input line 4.
 (pdftex.def)             Requested size: 196.03763pt x 489.29123pt.
 ) [74 <./noty/a_rosa-na-kolejích.jpg>] (./noty/a_růže-z-papíru.tex
-<noty/a_růže-z-papíru.jpg, id=245, 329.5512pt x 402.7848pt>
+<noty/a_růže-z-papíru.jpg, id=258, 329.5512pt x 402.7848pt>
 File: noty/a_růže-z-papíru.jpg Graphic file (type jpg)
 <use noty/a_růže-z-papíru.jpg>
 Package pdftex.def Info: noty/a_růže-z-papíru.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 368.63667pt.
 ) [75 <./noty/a_růže-z-papíru.jpg>] (./noty/a_ryl-jen-celej-den-ryl.tex
-<noty/a_ryl-jen-celej-den-ryl.jpg, id=249, 343.5234pt x 396.0396pt>
+<noty/a_ryl-jen-celej-den-ryl.jpg, id=262, 343.5234pt x 396.0396pt>
 File: noty/a_ryl-jen-celej-den-ryl.jpg Graphic file (type jpg)
 <use noty/a_ryl-jen-celej-den-ryl.jpg>
 Package pdftex.def Info: noty/a_ryl-jen-celej-den-ryl.jpg  used on input line 3
 .
 (pdftex.def)             Requested size: 301.5992pt x 347.72427pt.
 ) [76 <./noty/a_ryl-jen-celej-den-ryl.jpg>] (./noty/a_sáro.tex
-<noty/a_sáro.jpg, id=253, 326.6604pt x 451.9284pt>
+<noty/a_sáro.jpg, id=267, 326.6604pt x 451.9284pt>
 File: noty/a_sáro.jpg Graphic file (type jpg)
 <use noty/a_sáro.jpg>
 Package pdftex.def Info: noty/a_sáro.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 417.25488pt.
 ) [77 <./noty/a_sáro.jpg>]
 (./noty/a_severní-vítr.tex
-<noty/a_severní-vítr.jpg, id=257, 357.0138pt x 439.4016pt>
+<noty/a_severní-vítr.jpg, id=271, 357.0138pt x 439.4016pt>
 File: noty/a_severní-vítr.jpg Graphic file (type jpg)
 <use noty/a_severní-vítr.jpg>
 Package pdftex.def Info: noty/a_severní-vítr.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 371.2068pt.
 ) [78 <./noty/a_severní-vítr.jpg>]
 (./noty/a_slavíci-z-madridu.tex
-<noty/a_slavíci-z-madridu.jpg, id=261, 357.4956pt x 389.7762pt>
+<noty/a_slavíci-z-madridu.jpg, id=275, 357.4956pt x 389.7762pt>
 File: noty/a_slavíci-z-madridu.jpg Graphic file (type jpg)
 <use noty/a_slavíci-z-madridu.jpg>
 Package pdftex.def Info: noty/a_slavíci-z-madridu.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 328.85501pt.
 ) [80 <./noty/a_slavíci-z-madridu.jpg>]
 (./noty/a_soudný-den.tex
-<noty/a_soudný-den.jpg, id=266, 246.80205pt x 342.92114pt>
+<noty/a_soudný-den.jpg, id=279, 246.80205pt x 342.92114pt>
 File: noty/a_soudný-den.jpg Graphic file (type jpg)
 <use noty/a_soudný-den.jpg>
 Package pdftex.def Info: noty/a_soudný-den.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 419.0905pt.
 ) [81 <./noty/a_soudný-den.jpg>]
 (./noty/a_styskani.tex
-<noty/a_styskani.jpeg, id=270, 304.13625pt x 471.6822pt>
+<noty/a_styskani.jpeg, id=283, 304.13625pt x 471.6822pt>
 File: noty/a_styskani.jpeg Graphic file (type jpg)
 <use noty/a_styskani.jpeg>
 Package pdftex.def Info: noty/a_styskani.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 467.75851pt.
 ) [83 <./noty/a_styskani.jpeg>]
 (./noty/a_tak-už-mi-má-holka-mává.tex
-<noty/a_tak-už-mi-má-holka-mává.jpg, id=274, 226.9278pt x 458.1918pt>
+<noty/a_tak-už-mi-má-holka-mává.jpg, id=287, 226.9278pt x 458.1918pt>
 File: noty/a_tak-už-mi-má-holka-mává.jpg Graphic file (type jpg)
 <use noty/a_tak-už-mi-má-holka-mává.jpg>
 Package pdftex.def Info: noty/a_tak-už-mi-má-holka-mává.jpg  used on input 
 line 4.
 (pdftex.def)             Requested size: 234.8428pt x 474.17047pt.
 ) [84 <./noty/a_tak-už-mi-má-holka-mává.jpg>] (./noty/a_tereza.tex
-<noty/a_tereza.jpg, id=278, 353.6412pt x 694.7556pt>
+<noty/a_tereza.jpg, id=292, 353.6412pt x 694.7556pt>
 File: noty/a_tereza.jpg Graphic file (type jpg)
 <use noty/a_tereza.jpg>
 Package pdftex.def Info: noty/a_tereza.jpg  used on input line 4.
 (pdftex.def)             Requested size: 241.28027pt x 474.02832pt.
 ) [85 <./noty/a_tereza.jpg>]
 (./noty/a_těšínská.tex
-<noty/a_těšínská.jpg, id=282, 349.7868pt x 488.0634pt>
+<noty/a_těšínská.jpg, id=296, 349.7868pt x 488.0634pt>
 File: noty/a_těšínská.jpg Graphic file (type jpg)
 <use noty/a_těšínská.jpg>
 Package pdftex.def Info: noty/a_těšínská.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 420.82854pt.
 ) [86 <./noty/a_těšínská.jpg>]
 (./noty/a_tisíc-dnů-mezi-námi.tex
-<noty/a_tisíc-dnů-mezi-námi.jpg, id=286, 493.3632pt x 909.1566pt>
+<noty/a_tisíc-dnů-mezi-námi.jpg, id=300, 493.3632pt x 909.1566pt>
 File: noty/a_tisíc-dnů-mezi-námi.jpg Graphic file (type jpg)
 <use noty/a_tisíc-dnů-mezi-námi.jpg>
 Package pdftex.def Info: noty/a_tisíc-dnů-mezi-námi.jpg  used on input line 
 4.
 (pdftex.def)             Requested size: 257.3182pt x 474.17047pt.
 ) [87 <./noty/a_tisíc-dnů-mezi-námi.jpg>] (./noty/a_topič.tex
-<noty/a_topič.jpg, id=291, 319.9152pt x 225.4824pt>
+<noty/a_topič.jpg, id=304, 319.9152pt x 225.4824pt>
 File: noty/a_topič.jpg Graphic file (type jpg)
 <use noty/a_topič.jpg>
 Package pdftex.def Info: noty/a_topič.jpg  used on input line 4.
@@ -1146,97 +1176,104 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 4--4
  []
 
 ) [88 <./noty/a_topič.jpg>] (./noty/a_to-ta-helpa.tex
-<noty/a_to-ta-helpa.jpg, id=295, 356.0502pt x 224.5188pt>
+<noty/a_to-ta-helpa.jpg, id=308, 356.0502pt x 224.5188pt>
 File: noty/a_to-ta-helpa.jpg Graphic file (type jpg)
 <use noty/a_to-ta-helpa.jpg>
 Package pdftex.def Info: noty/a_to-ta-helpa.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 190.19095pt.
 ) [90 <./noty/a_to-ta-helpa.jpg>] (./noty/a_toulavej.tex
-<noty/a_toulavej.jpg, id=299, 358.4592pt x 314.6154pt>
+<noty/a_toulavej.jpg, id=312, 358.4592pt x 314.6154pt>
 File: noty/a_toulavej.jpg Graphic file (type jpg)
 <use noty/a_toulavej.jpg>
 Package pdftex.def Info: noty/a_toulavej.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 264.72159pt.
 ) [91 <./noty/a_toulavej.jpg>]
 (./noty/a_trampská.tex
-<noty/a_trampská.jpeg, id=303, 299.4387pt x 455.18056pt>
+<noty/a_trampská.jpeg, id=317, 299.4387pt x 455.18056pt>
 File: noty/a_trampská.jpeg Graphic file (type jpg)
 <use noty/a_trampská.jpeg>
 Package pdftex.def Info: noty/a_trampská.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 458.46463pt.
 ) [92 <./noty/a_trampská.jpeg>]
 (./noty/a_tři-kříže.tex
-<noty/a_tři-kříže.jpeg, id=307, 328.5876pt x 284.86424pt>
+<noty/a_tři-kříže.jpeg, id=321, 328.5876pt x 284.86424pt>
 File: noty/a_tři-kříže.jpeg Graphic file (type jpg)
 <use noty/a_tři-kříže.jpeg>
 Package pdftex.def Info: noty/a_tři-kříže.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 261.48279pt.
 ) [93 <./noty/a_tři-kříže.jpeg>]
 (./noty/a_tulácký-ráno.tex
-<noty/a_tulácký-ráno.jpg, id=311, 354.6048pt x 391.2216pt>
+<noty/a_tulácký-ráno.jpg, id=325, 354.6048pt x 391.2216pt>
 File: noty/a_tulácký-ráno.jpg Graphic file (type jpg)
 <use noty/a_tulácký-ráno.jpg>
 Package pdftex.def Info: noty/a_tulácký-ráno.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 332.74886pt.
 ) [94 <./noty/a_tulácký-ráno.jpg>]
 (./noty/a_už-to-nenapravím.tex
-<noty/a_už-to-nenapravím.jpg, id=316, 498.1812pt x 438.438pt>
+<noty/a_už-to-nenapravím.jpg, id=329, 498.1812pt x 438.438pt>
 File: noty/a_už-to-nenapravím.jpg Graphic file (type jpg)
 <use noty/a_už-to-nenapravím.jpg>
 Package pdftex.def Info: noty/a_už-to-nenapravím.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 265.43977pt.
 ) [95 <./noty/a_už-to-nenapravím.jpg>]
 (./noty/a_válka-růží.tex
-<noty/a_válka-růží.jpg, id=320, 357.0138pt x 293.898pt>
+<noty/a_válka-růží.jpg, id=333, 357.0138pt x 293.898pt>
 File: noty/a_válka-růží.jpg Graphic file (type jpg)
 <use noty/a_válka-růží.jpg>
 Package pdftex.def Info: noty/a_válka-růží.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 248.28523pt.
 ) [96 <./noty/a_válka-růží.jpg>]
 (./noty/a_velrybářská-výprava.tex
-<noty/a_velrybářská-výprava.jpg, id=324, 355.0866pt x 370.5042pt>
+<noty/a_velrybářská-výprava.jpg, id=337, 355.0866pt x 370.5042pt>
 File: noty/a_velrybářská-výprava.jpg Graphic file (type jpg)
 <use noty/a_velrybářská-výprava.jpg>
 Package pdftex.def Info: noty/a_velrybářská-výprava.jpg  used on input line
  3.
 (pdftex.def)             Requested size: 301.5992pt x 314.70956pt.
 ) [97 <./noty/a_velrybářská-výprava.jpg>] (./noty/a_vlajka.tex
-<noty/a_vlajka.jpg, id=328, 356.0502pt x 466.3824pt>
+<noty/a_vlajka.jpg, id=342, 356.0502pt x 466.3824pt>
 File: noty/a_vlajka.jpg Graphic file (type jpg)
 <use noty/a_vlajka.jpg>
 Package pdftex.def Info: noty/a_vlajka.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 395.07478pt.
 ) [98 <./noty/a_vlajka.jpg>]
 (./noty/a_vstávej-holka.tex
-<noty/a_vstávej-holka.jpg, id=332, 317.5062pt x 212.4738pt>
+<noty/a_vstávej-holka.jpg, id=346, 317.5062pt x 212.4738pt>
 File: noty/a_vstávej-holka.jpg Graphic file (type jpg)
 <use noty/a_vstávej-holka.jpg>
 Package pdftex.def Info: noty/a_vstávej-holka.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 201.8295pt.
 ) [99 <./noty/a_vstávej-holka.jpg>]
+(./noty/a_zabili-zabili.tex
+<noty/a_zabili-zabili.jpg, id=350, 491.436pt x 318.7107pt>
+File: noty/a_zabili-zabili.jpg Graphic file (type jpg)
+<use noty/a_zabili-zabili.jpg>
+Package pdftex.def Info: noty/a_zabili-zabili.jpg  used on input line 3.
+(pdftex.def)             Requested size: 301.5992pt x 195.60469pt.
+) [100 <./noty/a_zabili-zabili.jpg>]
 (./noty/a_zafúkané.tex
-<noty/a_zafúkané.jpg, id=336, 488.5452pt x 655.248pt>
+<noty/a_zafúkané.jpg, id=354, 488.5452pt x 655.248pt>
 File: noty/a_zafúkané.jpg Graphic file (type jpg)
 <use noty/a_zafúkané.jpg>
 Package pdftex.def Info: noty/a_zafúkané.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 404.51987pt.
 ) [101 <./noty/a_zafúkané.jpg>]
 (./noty/a_zatanči.tex
-<noty/a_zatanči.jpg, id=341, 346.896pt x 259.2084pt>
+<noty/a_zatanči.jpg, id=358, 346.896pt x 259.2084pt>
 File: noty/a_zatanči.jpg Graphic file (type jpg)
 <use noty/a_zatanči.jpg>
 Package pdftex.def Info: noty/a_zatanči.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 225.37103pt.
 ) [102 <./noty/a_zatanči.jpg>]
 (./noty/a_zítra-ráno-v-pět.tex
-<noty/a_zítra-ráno-v-pět.jpg, id=345, 344.0052pt x 206.6922pt>
+<noty/a_zítra-ráno-v-pět.jpg, id=362, 344.0052pt x 206.6922pt>
 File: noty/a_zítra-ráno-v-pět.jpg Graphic file (type jpg)
 <use noty/a_zítra-ráno-v-pět.jpg>
 Package pdftex.def Info: noty/a_zítra-ráno-v-pět.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 181.21475pt.
 ) [103 <./noty/a_zítra-ráno-v-pět.jpg>]
 (./noty/b_AA.tex) (./noty/b_Apoštolská.tex
-<noty/b_Apoštolská.jpg, id=349, 115.632pt x 133.6995pt>
+<noty/b_Apoštolská.jpg, id=367, 115.632pt x 133.6995pt>
 File: noty/b_Apoštolská.jpg Graphic file (type jpg)
 <use noty/b_Apoštolská.jpg>
 Package pdftex.def Info: noty/b_Apoštolská.jpg  used on input line 3.
@@ -1247,7 +1284,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Boží-radost-jako-řeka.tex
-<noty/b_Boží-radost-jako-řeka.jpg, id=350, 113.223pt x 100.6962pt>
+<noty/b_Boží-radost-jako-řeka.jpg, id=368, 113.223pt x 100.6962pt>
 File: noty/b_Boží-radost-jako-řeka.jpg Graphic file (type jpg)
 <use noty/b_Boží-radost-jako-řeka.jpg>
 Package pdftex.def Info: noty/b_Boží-radost-jako-řeka.jpg  used on input lin
@@ -1259,7 +1296,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Bůh-je-záštita-má.tex
-<noty/b_Bůh-je-záštita-má.jpg, id=351, 113.4639pt x 116.1138pt>
+<noty/b_Bůh-je-záštita-má.jpg, id=369, 113.4639pt x 116.1138pt>
 File: noty/b_Bůh-je-záštita-má.jpg Graphic file (type jpg)
 <use noty/b_Bůh-je-záštita-má.jpg>
 Package pdftex.def Info: noty/b_Bůh-je-záštita-má.jpg  used on input line 3
@@ -1271,7 +1308,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Effatha.tex
-<noty/b_Effatha.jpg, id=352, 114.1866pt x 112.5003pt>
+<noty/b_Effatha.jpg, id=370, 114.1866pt x 112.5003pt>
 File: noty/b_Effatha.jpg Graphic file (type jpg)
 <use noty/b_Effatha.jpg>
 Package pdftex.def Info: noty/b_Effatha.jpg  used on input line 3.
@@ -1283,7 +1320,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
 
 ) [105 <./noty/b_Apoštolská.jpg> <./noty/b_Boží-radost-jako-řeka.jpg> <./n
 oty/b_Bůh-je-záštita-má.jpg> <./noty/b_Effatha.jpg>] (./noty/b_Hosana.tex
-<noty/b_Hosana.jpg, id=356, 114.4275pt x 133.6995pt>
+<noty/b_Hosana.jpg, id=374, 114.4275pt x 133.6995pt>
 File: noty/b_Hosana.jpg Graphic file (type jpg)
 <use noty/b_Hosana.jpg>
 Package pdftex.def Info: noty/b_Hosana.jpg  used on input line 3.
@@ -1294,14 +1331,14 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Jsem-všechno-co-nemáš.tex
-<noty/b_Jsem-všechno-co-nemáš.jpg, id=357, 114.6684pt x 192.4791pt>
+<noty/b_Jsem-všechno-co-nemáš.jpg, id=375, 114.6684pt x 192.4791pt>
 File: noty/b_Jsem-všechno-co-nemáš.jpg Graphic file (type jpg)
 <use noty/b_Jsem-všechno-co-nemáš.jpg>
 Package pdftex.def Info: noty/b_Jsem-všechno-co-nemáš.jpg  used on input lin
 e 3.
 (pdftex.def)             Requested size: 135.7187pt x 227.83702pt.
 ) (./noty/b_Laudato-si.tex
-<noty/b_Laudato-si.jpg, id=358, 113.223pt x 84.315pt>
+<noty/b_Laudato-si.jpg, id=376, 113.223pt x 84.315pt>
 File: noty/b_Laudato-si.jpg Graphic file (type jpg)
 <use noty/b_Laudato-si.jpg>
 Package pdftex.def Info: noty/b_Laudato-si.jpg  used on input line 3.
@@ -1312,7 +1349,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Modlitba-sv-Tomáše.tex
-<noty/b_Modlitba-sv-Tomáše.jpg, id=359, 114.4275pt x 84.5559pt>
+<noty/b_Modlitba-sv-Tomáše.jpg, id=377, 114.4275pt x 84.5559pt>
 File: noty/b_Modlitba-sv-Tomáše.jpg Graphic file (type jpg)
 <use noty/b_Modlitba-sv-Tomáše.jpg>
 Package pdftex.def Info: noty/b_Modlitba-sv-Tomáše.jpg  used on input line 3.
@@ -1324,7 +1361,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Na-Golgotu.tex
-<noty/b_Na-Golgotu.jpg, id=360, 484.81125pt x 546.04pt>
+<noty/b_Na-Golgotu.jpg, id=378, 484.81125pt x 546.04pt>
 File: noty/b_Na-Golgotu.jpg Graphic file (type jpg)
 <use noty/b_Na-Golgotu.jpg>
 Package pdftex.def Info: noty/b_Na-Golgotu.jpg  used on input line 3.
@@ -1332,7 +1369,7 @@ Package pdftex.def Info: noty/b_Na-Golgotu.jpg  used on input line 3.
 ) [108 <./noty/b_Hosana.jpg> <./noty/b_Jsem-všechno-co-nemáš.jpg> <./noty/b_
 Laudato-si.jpg> <./noty/b_Modlitba-sv-Tomáše.jpg> <./noty/b_Na-Golgotu.jpg>] 
 (./noty/b_Nám-pane-dal-jsi-slovo-své.tex
-<noty/b_Nám-pane-dal-jsi-slovo-své.jpg, id=364, 115.1502pt x 180.9159pt>
+<noty/b_Nám-pane-dal-jsi-slovo-své.jpg, id=382, 115.1502pt x 180.9159pt>
 File: noty/b_Nám-pane-dal-jsi-slovo-své.jpg Graphic file (type jpg)
 <use noty/b_Nám-pane-dal-jsi-slovo-své.jpg>
 Package pdftex.def Info: noty/b_Nám-pane-dal-jsi-slovo-své.jpg  used on input
@@ -1344,7 +1381,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Neseme-pane-chléb-a-víno.tex
-<noty/b_Neseme-pane-chléb-a-víno.jpg, id=365, 114.6684pt x 111.2958pt>
+<noty/b_Neseme-pane-chléb-a-víno.jpg, id=383, 114.6684pt x 111.2958pt>
 File: noty/b_Neseme-pane-chléb-a-víno.jpg Graphic file (type jpg)
 <use noty/b_Neseme-pane-chléb-a-víno.jpg>
 Package pdftex.def Info: noty/b_Neseme-pane-chléb-a-víno.jpg  used on input l
@@ -1356,7 +1393,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Ó-pane-zhasíná-den.tex
-<noty/b_Ó-pane-zhasíná-den.jpg, id=366, 113.9457pt x 126.4725pt>
+<noty/b_Ó-pane-zhasíná-den.jpg, id=384, 113.9457pt x 126.4725pt>
 File: noty/b_Ó-pane-zhasíná-den.jpg Graphic file (type jpg)
 <use noty/b_Ó-pane-zhasíná-den.jpg>
 Package pdftex.def Info: noty/b_Ó-pane-zhasíná-den.jpg  used on input line 3
@@ -1368,7 +1405,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_oPojď-ke-mně-blíž.tex
-<noty/b_oPojď-ke-mně-blíž.jpg, id=367, 114.6684pt x 90.8193pt>
+<noty/b_oPojď-ke-mně-blíž.jpg, id=385, 114.6684pt x 90.8193pt>
 File: noty/b_oPojď-ke-mně-blíž.jpg Graphic file (type jpg)
 <use noty/b_oPojď-ke-mně-blíž.jpg>
 Package pdftex.def Info: noty/b_oPojď-ke-mně-blíž.jpg  used on input line 3
@@ -1382,7 +1419,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
 ) [110 <./noty/b_Nám-pane-dal-jsi-slovo-své.jpg> <./noty/b_Neseme-pane-chléb
 -a-víno.jpg> <./noty/b_Ó-pane-zhasíná-den.jpg> <./noty/b_oPojď-ke-mně-bl�
 �ž.jpg>] (./noty/b_Ordinárium.tex
-<noty/c_o4-kyrie.jpeg, id=371, 114.4275pt x 75.4017pt>
+<noty/c_o4-kyrie.jpeg, id=389, 114.4275pt x 75.4017pt>
 File: noty/c_o4-kyrie.jpeg Graphic file (type jpg)
 <use noty/c_o4-kyrie.jpeg>
 Package pdftex.def Info: noty/c_o4-kyrie.jpeg  used on input line 4.
@@ -1392,7 +1429,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 4--5
 [] 
  []
 
-<noty/c_o4-gloria.jpeg, id=372, 498.86375pt x 878.28125pt>
+<noty/c_o4-gloria.jpeg, id=390, 498.86375pt x 878.28125pt>
 File: noty/c_o4-gloria.jpeg Graphic file (type jpg)
 <use noty/c_o4-gloria.jpeg>
 Package pdftex.def Info: noty/c_o4-gloria.jpeg  used on input line 6.
@@ -1402,7 +1439,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 6--8
 []
  []
 
-<noty/c_o4-credo.jpeg, id=373, 113.223pt x 71.7882pt>
+<noty/c_o4-credo.jpeg, id=391, 113.223pt x 71.7882pt>
 File: noty/c_o4-credo.jpeg Graphic file (type jpg)
 <use noty/c_o4-credo.jpeg>
 Package pdftex.def Info: noty/c_o4-credo.jpeg  used on input line 9.
@@ -1412,7 +1449,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 9--10
 [] 
  []
 
-<noty/c_o4-sanctus.jpeg, id=374, 113.223pt x 124.0635pt>
+<noty/c_o4-sanctus.jpeg, id=392, 113.223pt x 124.0635pt>
 File: noty/c_o4-sanctus.jpeg Graphic file (type jpg)
 <use noty/c_o4-sanctus.jpeg>
 Package pdftex.def Info: noty/c_o4-sanctus.jpeg  used on input line 11.
@@ -1422,7 +1459,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 11--12
 [] 
  []
 
-<noty/c_o4-agnus-dei.jpeg, id=375, 115.1502pt x 93.4692pt>
+<noty/c_o4-agnus-dei.jpeg, id=393, 115.1502pt x 93.4692pt>
 File: noty/c_o4-agnus-dei.jpeg Graphic file (type jpg)
 <use noty/c_o4-agnus-dei.jpeg>
 Package pdftex.def Info: noty/c_o4-agnus-dei.jpeg  used on input line 13.
@@ -1435,7 +1472,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 13--14
 ) [111 <./noty/c_o4-kyrie.jpeg> <./noty/c_o4-gloria.jpeg> <./noty/c_o4-credo.jp
 eg> <./noty/c_o4-sanctus.jpeg> <./noty/c_o4-agnus-dei.jpeg>]
 (./noty/b_Pojďte-ke-mně-všichni.tex
-<noty/b_Pojďte-ke-mně-všichni.png, id=380, 457.71pt x 756.8275pt>
+<noty/b_Pojďte-ke-mně-všichni.png, id=397, 457.71pt x 756.8275pt>
 File: noty/b_Pojďte-ke-mně-všichni.png Graphic file (type png)
 <use noty/b_Pojďte-ke-mně-všichni.png>
 Package pdftex.def Info: noty/b_Pojďte-ke-mně-všichni.png  used on input lin
@@ -1447,7 +1484,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Posba-k-Duchu-svatému.tex
-<noty/b_Posba-k-Duchu-svatému.jpg, id=382, 113.223pt x 124.5453pt>
+<noty/b_Posba-k-Duchu-svatému.jpg, id=399, 113.223pt x 124.5453pt>
 File: noty/b_Posba-k-Duchu-svatému.jpg Graphic file (type jpg)
 <use noty/b_Posba-k-Duchu-svatému.jpg>
 Package pdftex.def Info: noty/b_Posba-k-Duchu-svatému.jpg  used on input line 
@@ -1459,7 +1496,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Prijímám.tex
-<noty/b_Prijímám.jpg, id=383, 473.77pt x 332.24126pt>
+<noty/b_Prijímám.jpg, id=400, 473.77pt x 332.24126pt>
 File: noty/b_Prijímám.jpg Graphic file (type jpg)
 <use noty/b_Prijímám.jpg>
 Package pdftex.def Info: noty/b_Prijímám.jpg  used on input line 3.
@@ -1470,7 +1507,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Prijmi-pane.tex
-<noty/b_Prijmi-pane.jpg, id=384, 113.7048pt x 172.0026pt>
+<noty/b_Prijmi-pane.jpg, id=401, 113.7048pt x 172.0026pt>
 File: noty/b_Prijmi-pane.jpg Graphic file (type jpg)
 <use noty/b_Prijmi-pane.jpg>
 Package pdftex.def Info: noty/b_Prijmi-pane.jpg  used on input line 3.
@@ -1483,7 +1520,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
 [114 <./noty/b_Pojďte-ke-mně-všichni.png> <./noty/b_Posba-k-Duchu-svatému.j
 pg> <./noty/b_Prijímám.jpg> <./noty/b_Prijmi-pane.jpg>])
 (./noty/b_Připravujte-cestu.tex
-<noty/b_Připravujte-cestu.jpg, id=389, 115.632pt x 202.5969pt>
+<noty/b_Připravujte-cestu.jpg, id=406, 115.632pt x 202.5969pt>
 File: noty/b_Připravujte-cestu.jpg Graphic file (type jpg)
 <use noty/b_Připravujte-cestu.jpg>
 Package pdftex.def Info: noty/b_Připravujte-cestu.jpg  used on input line 3.
@@ -1494,13 +1531,13 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--4
  []
 
 ) (./noty/b_ptZde-jsem.tex
-<noty/b_Zde-jsem.png, id=390, 458.71375pt x 962.59625pt>
+<noty/b_Zde-jsem.png, id=407, 458.71375pt x 962.59625pt>
 File: noty/b_Zde-jsem.png Graphic file (type png)
 <use noty/b_Zde-jsem.png>
 Package pdftex.def Info: noty/b_Zde-jsem.png  used on input line 3.
 (pdftex.def)             Requested size: 123.65677pt x 259.4785pt.
 ) (./noty/b_Půjdeš-li-pouští.tex
-<noty/b_Půjdeš-li-pouští.jpg, id=391, 437.38406pt x 254.45062pt>
+<noty/b_Půjdeš-li-pouští.jpg, id=408, 437.38406pt x 254.45062pt>
 File: noty/b_Půjdeš-li-pouští.jpg Graphic file (type jpg)
 <use noty/b_Půjdeš-li-pouští.jpg>
 Package pdftex.def Info: noty/b_Půjdeš-li-pouští.jpg  used on input line 4.
@@ -1508,7 +1545,7 @@ Package pdftex.def Info: noty/b_Půjdeš-li-pouští.jpg  used on input line 4.
 (pdftex.def)             Requested size: 301.5992pt x 175.45851pt.
 ) [116 <./noty/b_Připravujte-cestu.jpg> <./noty/b_Zde-jsem.png> <./noty/b_Půj
 deš-li-pouští.jpg>] (./noty/b_Slunce-kristovy-lásky.tex
-<noty/b_Slunce-kristovy-lásky.jpg, id=396, 115.3911pt x 105.7551pt>
+<noty/b_Slunce-kristovy-lásky.jpg, id=414, 115.3911pt x 105.7551pt>
 File: noty/b_Slunce-kristovy-lásky.jpg Graphic file (type jpg)
 <use noty/b_Slunce-kristovy-lásky.jpg>
 Package pdftex.def Info: noty/b_Slunce-kristovy-lásky.jpg  used on input line 
@@ -1520,7 +1557,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Spoj-nás-v-jedno.tex
-<noty/b_Spoj-nás-v-jedno.jpg, id=397, 115.8729pt x 166.4619pt>
+<noty/b_Spoj-nás-v-jedno.jpg, id=415, 115.8729pt x 166.4619pt>
 File: noty/b_Spoj-nás-v-jedno.jpg Graphic file (type jpg)
 <use noty/b_Spoj-nás-v-jedno.jpg>
 Package pdftex.def Info: noty/b_Spoj-nás-v-jedno.jpg  used on input line 3.
@@ -1531,7 +1568,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Světem-běžím-dál.tex
-<noty/b_Světem-běžím-dál.jpg, id=398, 486.81876pt x 731.73375pt>
+<noty/b_Světem-běžím-dál.jpg, id=416, 486.81876pt x 731.73375pt>
 File: noty/b_Světem-běžím-dál.jpg Graphic file (type jpg)
 <use noty/b_Světem-běžím-dál.jpg>
 Package pdftex.def Info: noty/b_Světem-běžím-dál.jpg  used on input line 3
@@ -1543,7 +1580,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Svorni-jsme.tex
-<noty/b_Svorni-jsme.jpg, id=399, 115.632pt x 112.9821pt>
+<noty/b_Svorni-jsme.jpg, id=417, 115.632pt x 112.9821pt>
 File: noty/b_Svorni-jsme.jpg Graphic file (type jpg)
 <use noty/b_Svorni-jsme.jpg>
 Package pdftex.def Info: noty/b_Svorni-jsme.jpg  used on input line 3.
@@ -1556,14 +1593,14 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
 ) [117 <./noty/b_Slunce-kristovy-lásky.jpg> <./noty/b_Spoj-nás-v-jedno.jpg> <
 ./noty/b_Světem-běžím-dál.jpg> <./noty/b_Svorni-jsme.jpg>]
 (./noty/b_Svý-kroky-rozezpívej.tex
-<noty/b_Svý-kroky-rozezpívej.jpg, id=403, 115.1502pt x 245.2362pt>
+<noty/b_Svý-kroky-rozezpívej.jpg, id=421, 115.1502pt x 245.2362pt>
 File: noty/b_Svý-kroky-rozezpívej.jpg Graphic file (type jpg)
 <use noty/b_Svý-kroky-rozezpívej.jpg>
 Package pdftex.def Info: noty/b_Svý-kroky-rozezpívej.jpg  used on input line 
 3.
 (pdftex.def)             Requested size: 132.70438pt x 282.64061pt.
 ) (./noty/b_Tobě-patří-chvála.tex
-<noty/b_Tobě-patří-chvála.jpg, id=404, 114.6684pt x 129.8451pt>
+<noty/b_Tobě-patří-chvála.jpg, id=422, 114.6684pt x 129.8451pt>
 File: noty/b_Tobě-patří-chvála.jpg Graphic file (type jpg)
 <use noty/b_Tobě-patří-chvála.jpg>
 Package pdftex.def Info: noty/b_Tobě-patří-chvála.jpg  used on input line 4
@@ -1571,13 +1608,13 @@ Package pdftex.def Info: noty/b_Tobě-patří-chvála.jpg  used on input line 4
 (pdftex.def)             Requested size: 135.7187pt x 153.69731pt.
 )
 (./noty/b_Vše-co-mohu-dát.tex
-<noty/b_Vše-co-mohu-dát.jpg, id=405, 113.9457pt x 171.7617pt>
+<noty/b_Vše-co-mohu-dát.jpg, id=423, 113.9457pt x 171.7617pt>
 File: noty/b_Vše-co-mohu-dát.jpg Graphic file (type jpg)
 <use noty/b_Vše-co-mohu-dát.jpg>
 Package pdftex.def Info: noty/b_Vše-co-mohu-dát.jpg  used on input line 3.
 (pdftex.def)             Requested size: 135.7187pt x 204.59552pt.
 ) (./noty/b_Vychází.tex
-<noty/b_Vychází.jpg, id=406, 485.815pt x 660.4675pt>
+<noty/b_Vychází.jpg, id=424, 485.815pt x 660.4675pt>
 File: noty/b_Vychází.jpg Graphic file (type jpg)
 <use noty/b_Vychází.jpg>
 Package pdftex.def Info: noty/b_Vychází.jpg  used on input line 3.
@@ -1586,7 +1623,7 @@ Package pdftex.def Info: noty/b_Vychází.jpg  used on input line 3.
 > <./noty/b_Vše-co-mohu-dát.jpg> <./noty/b_Vychází.jpg>]) (./noty/c_aa.tex)
 
 (./noty/c_take-me-home-country-roads.tex
-<noty/c_take-me-home-country-roads.jpg, id=410, 358.4592pt x 493.845pt>
+<noty/c_take-me-home-country-roads.jpg, id=428, 358.4592pt x 493.845pt>
 File: noty/c_take-me-home-country-roads.jpg Graphic file (type jpg)
 <use noty/c_take-me-home-country-roads.jpg>
 Package pdftex.def Info: noty/c_take-me-home-country-roads.jpg  used on input l
@@ -1594,14 +1631,14 @@ ine 3.
 (pdftex.def)             Requested size: 301.5992pt x 415.52776pt.
 ) [126 <./noty/c_take-me-home-country-roads.jpg>] (./noty/c_the-house-of-the-ri
 sing-sun.tex
-<noty/c_the-house-of-the-rising-sun.jpg, id=414, 353.1594pt x 400.3758pt>
+<noty/c_the-house-of-the-rising-sun.jpg, id=432, 353.1594pt x 400.3758pt>
 File: noty/c_the-house-of-the-rising-sun.jpg Graphic file (type jpg)
 <use noty/c_the-house-of-the-rising-sun.jpg>
 Package pdftex.def Info: noty/c_the-house-of-the-rising-sun.jpg  used on input 
 line 3.
 (pdftex.def)             Requested size: 301.5992pt x 341.92163pt.
 )) [128 <./noty/c_the-house-of-the-rising-sun.jpg>]
-<noty/akordy.jpeg, id=419, 490.4724pt x 698.61pt>
+<noty/akordy.jpeg, id=436, 490.4724pt x 698.61pt>
 File: noty/akordy.jpeg Graphic file (type jpg)
 <use noty/akordy.jpeg>
 Package pdftex.def Info: noty/akordy.jpeg  used on input line 69.
@@ -1609,7 +1646,7 @@ Package pdftex.def Info: noty/akordy.jpeg  used on input line 69.
  [129
 
  <./noty/akordy.jpeg>]
-<noty/rytmy.jpeg, id=423, 492.3996pt x 691.8648pt>
+<noty/rytmy.jpeg, id=440, 492.3996pt x 691.8648pt>
 File: noty/rytmy.jpeg Graphic file (type jpg)
 <use noty/rytmy.jpeg>
 Package pdftex.def Info: noty/rytmy.jpeg  used on input line 75.
@@ -1617,26 +1654,38 @@ Package pdftex.def Info: noty/rytmy.jpeg  used on input line 75.
  [130
 
  <./noty/rytmy.jpeg>]
-(./noty.aux) ) 
+Overfull \hbox (2.03175pt too wide) in paragraph at lines 79--79
+[]\OT1/lmr/bx/n/17.28 P^^Trehled me-t-ro-no-mic-kych hod-not 
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 82.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 82.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 82.
+[131
+
+] (./noty.aux) ) 
 Here is how much of TeX's memory you used:
- 15686 strings out of 482368
- 316437 string characters out of 5941919
+ 15769 strings out of 482368
+ 318354 string characters out of 5941918
  530967 words of memory out of 5000000
- 30145 multiletter control sequences out of 15000+600000
- 574401 words of font info for 50 fonts, out of 8000000 for 9000
+ 30208 multiletter control sequences out of 15000+600000
+ 582254 words of font info for 58 fonts, out of 8000000 for 9000
  428 hyphenation exceptions out of 8191
  68i,13n,83p,442b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/
-fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10
-.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts
-/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb><
-/usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/
-public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb></usr/sh
-are/texmf/fonts/type1/public/lm/lmss12.pfb>
-Output written on noty.pdf (87 pages, 36997716 bytes).
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texm
+f/fonts/enc/dvips/lm/lm-mathit.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx
+10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb
+></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type
+1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb></usr/
+share/texmf/fonts/type1/public/lm/lmss12.pfb>
+Output written on noty.pdf (92 pages, 39256265 bytes).
 PDF statistics:
- 460 PDF objects out of 1000 (max. 8388607)
- 232 compressed objects within 3 object streams
+ 481 PDF objects out of 1000 (max. 8388607)
+ 243 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 659 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 684 words of extra memory for PDF output out of 10000 (max. 10000000)
 
