@@ -5,11 +5,13 @@
 \contentsline {subsection}{Bedna od whisky}{9}{}%
 \contentsline {subsection}{Bláznova ukolébavka}{10}{}%
 \contentsline {subsection}{Bratříčku, zavírej vrátka}{11}{}%
+\contentsline {subsection}{Čarodějnice z Amesbury}{12}{}%
 \contentsline {subsection}{Černá díra}{15}{}%
 \contentsline {subsection}{Darmodej}{18}{}%
 \contentsline {subsection}{Dej mi víc své lásky}{19}{}%
 \contentsline {subsection}{Divoké koně}{21}{}%
 \contentsline {subsection}{Donald MacGillavry}{22}{}%
+\contentsline {subsection}{Dva Havrani}{23}{}%
 \contentsline {subsection}{Fi-li-mi}{24}{}%
 \contentsline {subsection}{Frankie Dlouhán}{25}{}%
 \contentsline {subsection}{Hlídač krav}{26}{}%

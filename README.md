@@ -14,3 +14,6 @@ imputs.tex is file used for import .tex files form song to sample_sb.tex, genera
 sample-sb.pdf is pdf output (A5)
 
 sample-sb_A4.pdf is pdf output of two A5s on A4 (for print)
+
+sudo apt install texlive-full should be enough
+

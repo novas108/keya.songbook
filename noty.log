@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.24)  24 APR 2025 23:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.9.26)  26 SEP 2025 22:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -707,7 +707,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 3.
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
  [] []\OT1/lmr/bx/n/10 P[]rehled me-t-ro-no-mic- 
  []
 
@@ -775,8 +775,34 @@ File: noty/a_bratříčku-zavírej-vrátka.jpg Graphic file (type jpg)
 Package pdftex.def Info: noty/a_bratříčku-zavírej-vrátka.jpg  used on inpu
 t line 3.
 (pdftex.def)             Requested size: 301.5992pt x 354.4276pt.
-) [11 <./noty/a_bratříčku-zavírej-vrátka.jpg>] (./noty/a_czerná-díra.tex
-<noty/a_czerná-díra.jpg, id=49, 314.1336pt x 101.178pt>
+) [11 <./noty/a_bratříčku-zavírej-vrátka.jpg>] (./noty/a_carodejnice.tex
+<noty/a_carodejnice1.jpg, id=49, 1236.62pt x 1021.8175pt>
+File: noty/a_carodejnice1.jpg Graphic file (type jpg)
+<use noty/a_carodejnice1.jpg>
+Package pdftex.def Info: noty/a_carodejnice1.jpg  used on input line 4.
+(pdftex.def)             Requested size: 232.23267pt x 191.88655pt.
+<noty/a_carodejnice2.jpg, id=50, 1248.665pt x 1490.56876pt>
+File: noty/a_carodejnice2.jpg Graphic file (type jpg)
+<use noty/a_carodejnice2.jpg>
+Package pdftex.def Info: noty/a_carodejnice2.jpg  used on input line 8.
+(pdftex.def)             Requested size: 232.23267pt x 277.20653pt.
+)
+
+Package fancyhdr Warning: \headheight is too small (15.1767pt): 
+(fancyhdr)                Make it at least 15.95134pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.95134pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.77464pt}.
+
+
+Package fancyhdr Warning: \footskip is too small (13.73131pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.49998pt}.
+
+[12 <./noty/a_carodejnice1.jpg> <./noty/a_carodejnice2.jpg>]
+(./noty/a_czerná-díra.tex
+<noty/a_czerná-díra.jpg, id=54, 314.1336pt x 101.178pt>
 File: noty/a_czerná-díra.jpg Graphic file (type jpg)
 <use noty/a_czerná-díra.jpg>
 Package pdftex.def Info: noty/a_czerná-díra.jpg  used on input line 3.
@@ -791,7 +817,7 @@ Package fancyhdr Warning: \headheight is too small (15.1767pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.77464pt}.
 
 [15 <./noty/a_czerná-díra.jpg>] (./noty/a_darmoděj.tex
-<noty/a_darmoděj.jpg, id=53, 346.896pt x 434.1018pt>
+<noty/a_darmoděj.jpg, id=58, 346.896pt x 434.1018pt>
 File: noty/a_darmoděj.jpg Graphic file (type jpg)
 <use noty/a_darmoděj.jpg>
 Package pdftex.def Info: noty/a_darmoděj.jpg  used on input line 3.
@@ -803,26 +829,26 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [18 <./noty/a_darmoděj.jpg>] (./noty/a_dej-mi-víc-své-lásky.tex
-<noty/a_dej-mi-víc-své-lásky.jpg, id=57, 354.123pt x 410.4936pt>
+<noty/a_dej-mi-víc-své-lásky.jpg, id=62, 354.123pt x 410.4936pt>
 File: noty/a_dej-mi-víc-své-lásky.jpg Graphic file (type jpg)
 <use noty/a_dej-mi-víc-své-lásky.jpg>
 Package pdftex.def Info: noty/a_dej-mi-víc-své-lásky.jpg  used on input line
  3.
 (pdftex.def)             Requested size: 301.5992pt x 349.63525pt.
 ) [19 <./noty/a_dej-mi-víc-své-lásky.jpg>] (./noty/a_divoké-koně.tex
-<noty/a_divoké-koně.jpg, id=61, 352.1958pt x 236.5638pt>
+<noty/a_divoké-koně.jpg, id=67, 352.1958pt x 236.5638pt>
 File: noty/a_divoké-koně.jpg Graphic file (type jpg)
 <use noty/a_divoké-koně.jpg>
 Package pdftex.def Info: noty/a_divoké-koně.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 202.58179pt.
 ) [21 <./noty/a_divoké-koně.jpg>] (./noty/a_donald-macgallavry.tex
-<noty/a_donald-macgallavry-1.jpeg, id=66, 298.716pt x 337.26pt>
+<noty/a_donald-macgallavry-1.jpeg, id=71, 298.716pt x 337.26pt>
 File: noty/a_donald-macgallavry-1.jpeg Graphic file (type jpg)
 <use noty/a_donald-macgallavry-1.jpeg>
 Package pdftex.def Info: noty/a_donald-macgallavry-1.jpeg  used on input line 3
 .
 (pdftex.def)             Requested size: 217.15178pt x 245.1788pt.
-<noty/a_donald-macgallavry-2.jpeg, id=67, 298.716pt x 334.3692pt>
+<noty/a_donald-macgallavry-2.jpeg, id=72, 298.716pt x 334.3692pt>
 File: noty/a_donald-macgallavry-2.jpeg Graphic file (type jpg)
 <use noty/a_donald-macgallavry-2.jpeg>
 Package pdftex.def Info: noty/a_donald-macgallavry-2.jpeg  used on input line 4
@@ -835,8 +861,15 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [22 <./noty/a_donald-macgallavry-1.jpeg> <./noty/a_donald-macgallavry-2.jpeg>]
+(./noty/a_dva-havrani.tex
+<noty/a_dva-havrani.jpg, id=76, 1232.605pt x 1336.995pt>
+File: noty/a_dva-havrani.jpg Graphic file (type jpg)
+<use noty/a_dva-havrani.jpg>
+Package pdftex.def Info: noty/a_dva-havrani.jpg  used on input line 3.
+(pdftex.def)             Requested size: 301.5992pt x 327.12802pt.
+) [23 <./noty/a_dva-havrani.jpg>]
 (./noty/a_fi-li-mi.tex
-<noty/a_fi-li-mi.jpg, id=71, 332.442pt x 218.2554pt>
+<noty/a_fi-li-mi.jpg, id=80, 332.442pt x 218.2554pt>
 File: noty/a_fi-li-mi.jpg Graphic file (type jpg)
 <use noty/a_fi-li-mi.jpg>
 Package pdftex.def Info: noty/a_fi-li-mi.jpg  used on input line 3.
@@ -848,13 +881,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [24 <./noty/a_fi-li-mi.jpg>] (./noty/a_frankie-dlouhán.tex
-<noty/a_frankie-dlouhán.jpg, id=75, 351.2322pt x 400.3758pt>
+<noty/a_frankie-dlouhán.jpg, id=84, 351.2322pt x 400.3758pt>
 File: noty/a_frankie-dlouhán.jpg Graphic file (type jpg)
 <use noty/a_frankie-dlouhán.jpg>
 Package pdftex.def Info: noty/a_frankie-dlouhán.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 343.80939pt.
 ) [25 <./noty/a_frankie-dlouhán.jpg>] (./noty/a_hlídač-krav.tex
-<noty/a_hlídač-krav.jpg, id=79, 346.896pt x 298.2342pt>
+<noty/a_hlídač-krav.jpg, id=88, 346.896pt x 298.2342pt>
 File: noty/a_hlídač-krav.jpg Graphic file (type jpg)
 <use noty/a_hlídač-krav.jpg>
 Package pdftex.def Info: noty/a_hlídač-krav.jpg  used on input line 3.
@@ -866,13 +899,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [26 <./noty/a_hlídač-krav.jpg>] (./noty/a_ho-ho-watanay.tex
-<noty/a_ho-ho-watanay.jpg, id=83, 359.9046pt x 305.4612pt>
+<noty/a_ho-ho-watanay.jpg, id=93, 359.9046pt x 305.4612pt>
 File: noty/a_ho-ho-watanay.jpg Graphic file (type jpg)
 <use noty/a_ho-ho-watanay.jpg>
 Package pdftex.def Info: noty/a_ho-ho-watanay.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 255.99371pt.
 ) [27 <./noty/a_ho-ho-watanay.jpg>] (./noty/a_hospoda-u-davida.tex
-<noty/a_hospoda-u-davida.jpeg, id=87, 327.624pt x 581.0508pt>
+<noty/a_hospoda-u-davida.jpeg, id=97, 327.624pt x 581.0508pt>
 File: noty/a_hospoda-u-davida.jpeg Graphic file (type jpg)
 <use noty/a_hospoda-u-davida.jpeg>
 Package pdftex.def Info: noty/a_hospoda-u-davida.jpeg  used on input line 4.
@@ -884,7 +917,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [28 <./noty/a_hospoda-u-davida.jpeg>] (./noty/a_hrobař.tex
-<noty/a_hrobař.jpg, id=92, 325.6968pt x 358.4592pt>
+<noty/a_hrobař.jpg, id=101, 325.6968pt x 358.4592pt>
 File: noty/a_hrobař.jpg Graphic file (type jpg)
 <use noty/a_hrobař.jpg>
 Package pdftex.def Info: noty/a_hrobař.jpg  used on input line 3.
@@ -896,7 +929,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [30 <./noty/a_hrobař.jpg>] (./noty/a_hučka.tex
-<noty/a_hučka.jpeg, id=96, 318.34935pt x 537.32745pt>
+<noty/a_hučka.jpeg, id=105, 318.34935pt x 537.32745pt>
 File: noty/a_hučka.jpeg Graphic file (type jpg)
 <use noty/a_hučka.jpeg>
 Package pdftex.def Info: noty/a_hučka.jpeg  used on input line 4.
@@ -908,13 +941,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [32 <./noty/a_hučka.jpeg>] (./noty/a_hudsonský-šífy.tex
-<noty/a_hudsonský-šífy.jpg, id=100, 351.2322pt x 381.5856pt>
+<noty/a_hudsonský-šífy.jpg, id=109, 351.2322pt x 381.5856pt>
 File: noty/a_hudsonský-šífy.jpg Graphic file (type jpg)
 <use noty/a_hudsonský-šífy.jpg>
 Package pdftex.def Info: noty/a_hudsonský-šífy.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 327.67393pt.
 ) [33 <./noty/a_hudsonský-šífy.jpg>] (./noty/a_jarní-kurýr.tex
-<noty/a_jarní-kurýr.jpg, id=104, 299.6796pt x 212.9556pt>
+<noty/a_jarní-kurýr.jpg, id=113, 299.6796pt x 212.9556pt>
 File: noty/a_jarní-kurýr.jpg Graphic file (type jpg)
 <use noty/a_jarní-kurýr.jpg>
 Package pdftex.def Info: noty/a_jarní-kurýr.jpg  used on input line 3.
@@ -926,13 +959,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [34 <./noty/a_jarní-kurýr.jpg>] (./noty/a_jarní-tání.tex
-<noty/a_jarní-tání.jpg, id=108, 357.0138pt x 383.5128pt>
+<noty/a_jarní-tání.jpg, id=118, 357.0138pt x 383.5128pt>
 File: noty/a_jarní-tání.jpg Graphic file (type jpg)
 <use noty/a_jarní-tání.jpg>
 Package pdftex.def Info: noty/a_jarní-tání.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 323.9919pt.
 ) [35 <./noty/a_jarní-tání.jpg>] (./noty/a_jaro.tex
-<noty/a_jaro.jpg, id=112, 354.6048pt x 348.8232pt>
+<noty/a_jaro.jpg, id=122, 354.6048pt x 348.8232pt>
 File: noty/a_jaro.jpg Graphic file (type jpg)
 <use noty/a_jaro.jpg>
 Package pdftex.def Info: noty/a_jaro.jpg  used on input line 3.
@@ -944,13 +977,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [36 <./noty/a_jaro.jpg>] (./noty/a_jasný-jak-facka.tex
-<noty/a_jasný-jak-facka.jpeg, id=117, 328.5876pt x 576.2328pt>
+<noty/a_jasný-jak-facka.jpeg, id=126, 328.5876pt x 576.2328pt>
 File: noty/a_jasný-jak-facka.jpeg Graphic file (type jpg)
 <use noty/a_jasný-jak-facka.jpeg>
 Package pdftex.def Info: noty/a_jasný-jak-facka.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 271.43742pt x 476.03978pt.
 ) [37 <./noty/a_jasný-jak-facka.jpeg>] (./noty/a_já-s-tebou-žít-nebudu.tex
-<noty/a_já-s-tebou-žít-nebudu.jpg, id=121, 528.5346pt x 682.2288pt>
+<noty/a_já-s-tebou-žít-nebudu.jpg, id=130, 528.5346pt x 682.2288pt>
 File: noty/a_já-s-tebou-žít-nebudu.jpg Graphic file (type jpg)
 <use noty/a_já-s-tebou-žít-nebudu.jpg>
 Package pdftex.def Info: noty/a_já-s-tebou-žít-nebudu.jpg  used on input lin
@@ -964,7 +997,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 
 [38 <./noty/a_já-s-tebou-žít-nebudu.jpg>]
 (./noty/a_jdem-zpátky-do-lesů.tex
-<noty/a_jdem-zpátky-do-lesů.jpg, id=125, 355.5684pt x 733.7814pt>
+<noty/a_jdem-zpátky-do-lesů.jpg, id=134, 355.5684pt x 733.7814pt>
 File: noty/a_jdem-zpátky-do-lesů.jpg Graphic file (type jpg)
 <use noty/a_jdem-zpátky-do-lesů.jpg>
 Package pdftex.def Info: noty/a_jdem-zpátky-do-lesů.jpg  used on input line 4
@@ -972,7 +1005,7 @@ Package pdftex.def Info: noty/a_jdem-zpátky-do-lesů.jpg  used on input line 4
 (pdftex.def)             Requested size: 241.28027pt x 497.92346pt.
 ) [39 <./noty/a_jdem-zpátky-do-lesů.jpg>]
 (./noty/a_jdou-po-mě-jdou.tex
-<noty/a_jdou-po-mě-jdou.jpg, id=129, 348.3414pt x 329.5512pt>
+<noty/a_jdou-po-mě-jdou.jpg, id=138, 348.3414pt x 329.5512pt>
 File: noty/a_jdou-po-mě-jdou.jpg Graphic file (type jpg)
 <use noty/a_jdou-po-mě-jdou.jpg>
 Package pdftex.def Info: noty/a_jdou-po-mě-jdou.jpg  used on input line 3.
@@ -984,7 +1017,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [40 <./noty/a_jdou-po-mě-jdou.jpg>] (./noty/a_když-mě-brali-za-vojáka.tex
-<noty/a_když-mě-brali-za-vojáka.jpg, id=133, 352.6776pt x 210.5466pt>
+<noty/a_když-mě-brali-za-vojáka.jpg, id=143, 352.6776pt x 210.5466pt>
 File: noty/a_když-mě-brali-za-vojáka.jpg Graphic file (type jpg)
 <use noty/a_když-mě-brali-za-vojáka.jpg>
 Package pdftex.def Info: noty/a_když-mě-brali-za-vojáka.jpg  used on input l
@@ -992,7 +1025,7 @@ ine 3.
 (pdftex.def)             Requested size: 301.5992pt x 180.06097pt.
 )
 [41 <./noty/a_když-mě-brali-za-vojáka.jpg>] (./noty/a_kluziště.tex
-<noty/a_kluziště.jpg, id=137, 319.9152pt x 325.6968pt>
+<noty/a_kluziště.jpg, id=147, 319.9152pt x 325.6968pt>
 File: noty/a_kluziště.jpg Graphic file (type jpg)
 <use noty/a_kluziště.jpg>
 Package pdftex.def Info: noty/a_kluziště.jpg  used on input line 3.
@@ -1004,13 +1037,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [42 <./noty/a_kluziště.jpg>] (./noty/a_kometa.tex
-<noty/a_kometa.jpg, id=142, 346.4142pt x 313.17pt>
+<noty/a_kometa.jpg, id=151, 346.4142pt x 313.17pt>
 File: noty/a_kometa.jpg Graphic file (type jpg)
 <use noty/a_kometa.jpg>
 Package pdftex.def Info: noty/a_kometa.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 272.66116pt.
 ) [43 <./noty/a_kometa.jpg>] (./noty/a_kozel.tex
-<noty/a_kozel.jpg, id=146, 348.3414pt x 289.5618pt>
+<noty/a_kozel.jpg, id=155, 348.3414pt x 289.5618pt>
 File: noty/a_kozel.jpg Graphic file (type jpg)
 <use noty/a_kozel.jpg>
 Package pdftex.def Info: noty/a_kozel.jpg  used on input line 3.
@@ -1022,14 +1055,14 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [44 <./noty/a_kozel.jpg>] (./noty/a_krtek.tex
-<noty/a_krtek.jpg, id=150, 676.5275pt x 848.16875pt>
+<noty/a_krtek.jpg, id=159, 676.5275pt x 848.16875pt>
 File: noty/a_krtek.jpg Graphic file (type jpg)
 <use noty/a_krtek.jpg>
 Package pdftex.def Info: noty/a_krtek.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 378.1263pt.
 ) [45 <./noty/a_krtek.jpg>]
 (./noty/a_lodníkův-lament.tex
-<noty/a_lodníkův-lament.jpeg, id=154, 328.5876pt x 376.2858pt>
+<noty/a_lodníkův-lament.jpeg, id=163, 328.5876pt x 376.2858pt>
 File: noty/a_lodníkův-lament.jpeg Graphic file (type jpg)
 <use noty/a_lodníkův-lament.jpeg>
 Package pdftex.def Info: noty/a_lodníkův-lament.jpeg  used on input line 3.
@@ -1041,7 +1074,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [46 <./noty/a_lodníkův-lament.jpeg>] (./noty/a_marsyas-a-apollon.tex
-<noty/a_marsyas-a-apollon.jpg, id=158, 495.2904pt x 447.1104pt>
+<noty/a_marsyas-a-apollon.jpg, id=168, 495.2904pt x 447.1104pt>
 File: noty/a_marsyas-a-apollon.jpg Graphic file (type jpg)
 <use noty/a_marsyas-a-apollon.jpg>
 Package pdftex.def Info: noty/a_marsyas-a-apollon.jpg  used on input line 3.
@@ -1053,13 +1086,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [50 <./noty/a_marsyas-a-apollon.jpg>] (./noty/a_mezi-horami.tex
-<noty/a_mezi-horami.jpg, id=162, 322.3242pt x 121.8954pt>
+<noty/a_mezi-horami.jpg, id=172, 322.3242pt x 121.8954pt>
 File: noty/a_mezi-horami.jpg Graphic file (type jpg)
 <use noty/a_mezi-horami.jpg>
 Package pdftex.def Info: noty/a_mezi-horami.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 114.06088pt.
 ) [51 <./noty/a_mezi-horami.jpg>] (./noty/a_mlýny.tex
-<noty/a_mlýny.jpg, id=167, 350.7504pt x 422.5386pt>
+<noty/a_mlýny.jpg, id=176, 350.7504pt x 422.5386pt>
 File: noty/a_mlýny.jpg Graphic file (type jpg)
 <use noty/a_mlýny.jpg>
 Package pdftex.def Info: noty/a_mlýny.jpg  used on input line 3.
@@ -1071,13 +1104,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [52 <./noty/a_mlýny.jpg>] (./noty/a_montgomery.tex
-<noty/a_montgomery.jpg, id=171, 351.2322pt x 255.354pt>
+<noty/a_montgomery.jpg, id=180, 351.2322pt x 255.354pt>
 File: noty/a_montgomery.jpg Graphic file (type jpg)
 <use noty/a_montgomery.jpg>
 Package pdftex.def Info: noty/a_montgomery.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 219.27676pt.
 ) [53 <./noty/a_montgomery.jpg>] (./noty/a_morituri-te-salutant.tex
-<noty/a_morituri-te-salutant.jpg, id=175, 355.5684pt x 398.9304pt>
+<noty/a_morituri-te-salutant.jpg, id=184, 355.5684pt x 398.9304pt>
 File: noty/a_morituri-te-salutant.jpg Graphic file (type jpg)
 <use noty/a_morituri-te-salutant.jpg>
 Package pdftex.def Info: noty/a_morituri-te-salutant.jpg  used on input line 3.
@@ -1090,13 +1123,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [54 <./noty/a_morituri-te-salutant.jpg>] (./noty/a_nosorožec.tex
-<noty/a_nosorožec.jpg, id=179, 321.8424pt x 330.5148pt>
+<noty/a_nosorožec.jpg, id=188, 321.8424pt x 330.5148pt>
 File: noty/a_nosorožec.jpg Graphic file (type jpg)
 <use noty/a_nosorožec.jpg>
 Package pdftex.def Info: noty/a_nosorožec.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 309.75093pt.
 ) [57 <./noty/a_nosorožec.jpg>] (./noty/a_ohníčky.tex
-<noty/a_ohníčky.jpg, id=183, 544.9158pt x 698.8509pt>
+<noty/a_ohníčky.jpg, id=193, 544.9158pt x 698.8509pt>
 File: noty/a_ohníčky.jpg Graphic file (type jpg)
 <use noty/a_ohníčky.jpg>
 Package pdftex.def Info: noty/a_ohníčky.jpg  used on input line 3.
@@ -1108,13 +1141,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [60 <./noty/a_ohníčky.jpg>] (./noty/a_o-zlaté-rybce.tex
-<noty/a_o-zlaté-rybce.jpeg, id=187, 309.3156pt x 337.26pt>
+<noty/a_o-zlaté-rybce.jpeg, id=197, 309.3156pt x 337.26pt>
 File: noty/a_o-zlaté-rybce.jpeg Graphic file (type jpg)
 <use noty/a_o-zlaté-rybce.jpeg>
 Package pdftex.def Info: noty/a_o-zlaté-rybce.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 328.84518pt.
 ) [63 <./noty/a_o-zlaté-rybce.jpeg>] (./noty/a_pánové-nahoře.tex
-<noty/a_pánové-nahoře.jpg, id=192, 386.8854pt x 647.7801pt>
+<noty/a_pánové-nahoře.jpg, id=201, 386.8854pt x 647.7801pt>
 File: noty/a_pánové-nahoře.jpg Graphic file (type jpg)
 <use noty/a_pánové-nahoře.jpg>
 Package pdftex.def Info: noty/a_pánové-nahoře.jpg  used on input line 4.
@@ -1126,13 +1159,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [64 <./noty/a_pánové-nahoře.jpg>] (./noty/a_petěnburg.tex
-<noty/a_petěnburg.jpg, id=196, 363.2772pt x 273.1806pt>
+<noty/a_petěnburg.jpg, id=205, 363.2772pt x 273.1806pt>
 File: noty/a_petěnburg.jpg Graphic file (type jpg)
 <use noty/a_petěnburg.jpg>
 Package pdftex.def Info: noty/a_petěnburg.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 226.81485pt.
 ) [65 <./noty/a_petěnburg.jpg>] (./noty/a_pískající-cikán.tex
-<noty/a_pískající-cikán.jpg, id=200, 334.3692pt x 226.446pt>
+<noty/a_pískající-cikán.jpg, id=209, 334.3692pt x 226.446pt>
 File: noty/a_pískající-cikán.jpg Graphic file (type jpg)
 <use noty/a_pískající-cikán.jpg>
 Package pdftex.def Info: noty/a_pískající-cikán.jpg  used on input line 3.
@@ -1144,13 +1177,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [66 <./noty/a_pískající-cikán.jpg>] (./noty/a_pohár-a-kalich.tex
-<noty/a_pohár-a-kalich.jpg, id=204, 499.1448pt x 584.9052pt>
+<noty/a_pohár-a-kalich.jpg, id=213, 499.1448pt x 584.9052pt>
 File: noty/a_pohár-a-kalich.jpg Graphic file (type jpg)
 <use noty/a_pohár-a-kalich.jpg>
 Package pdftex.def Info: noty/a_pohár-a-kalich.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 353.42696pt.
 ) [67 <./noty/a_pohár-a-kalich.jpg>] (./noty/a_pošťák.tex
-<noty/a_pošťák.jpeg, id=208, 331.9602pt x 402.0621pt>
+<noty/a_pošťák.jpeg, id=218, 331.9602pt x 402.0621pt>
 File: noty/a_pošťák.jpeg Graphic file (type jpg)
 <use noty/a_pošťák.jpeg>
 Package pdftex.def Info: noty/a_pošťák.jpeg  used on input line 2.
@@ -1162,13 +1195,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [68 <./noty/a_pošťák.jpeg>] (./noty/a_pověste-ho-vejš.tex
-<noty/a_pověste-ho-vejš.jpg, id=212, 494.3268pt x 764.1348pt>
+<noty/a_pověste-ho-vejš.jpg, id=222, 494.3268pt x 764.1348pt>
 File: noty/a_pověste-ho-vejš.jpg Graphic file (type jpg)
 <use noty/a_pověste-ho-vejš.jpg>
 Package pdftex.def Info: noty/a_pověste-ho-vejš.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 466.22647pt.
 ) [69 <./noty/a_pověste-ho-vejš.jpg>] (./noty/a_prasátko.tex
-<noty/a_prasátko.jpeg, id=217, 321.6015pt x 356.0502pt>
+<noty/a_prasátko.jpeg, id=227, 321.6015pt x 356.0502pt>
 File: noty/a_prasátko.jpeg Graphic file (type jpg)
 <use noty/a_prasátko.jpeg>
 Package pdftex.def Info: noty/a_prasátko.jpeg  used on input line 3.
@@ -1180,13 +1213,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [70 <./noty/a_prasátko.jpeg>] (./noty/a_prší.tex
-<noty/a_prší.jpg, id=221, 317.988pt x 267.8808pt>
+<noty/a_prší.jpg, id=231, 317.988pt x 267.8808pt>
 File: noty/a_prší.jpg Graphic file (type jpg)
 <use noty/a_prší.jpg>
 Package pdftex.def Info: noty/a_prší.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 254.08882pt.
 ) [71 <./noty/a_prší.jpg>] (./noty/a_ráda-se-miluje.tex
-<noty/a_ráda-se-miluje.jpg, id=226, 597.73312pt x 722.7pt>
+<noty/a_ráda-se-miluje.jpg, id=235, 597.73312pt x 722.7pt>
 File: noty/a_ráda-se-miluje.jpg Graphic file (type jpg)
 <use noty/a_ráda-se-miluje.jpg>
 Package pdftex.def Info: noty/a_ráda-se-miluje.jpg  used on input line 3.
@@ -1198,13 +1231,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [72 <./noty/a_ráda-se-miluje.jpg>] (./noty/a_rána-v-trávě.tex
-<noty/a_rána-v-trávě.jpg, id=230, 488.5452pt x 277.035pt>
+<noty/a_rána-v-trávě.jpg, id=239, 488.5452pt x 277.035pt>
 File: noty/a_rána-v-trávě.jpg Graphic file (type jpg)
 <use noty/a_rána-v-trávě.jpg>
 Package pdftex.def Info: noty/a_rána-v-trávě.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 171.02861pt.
 ) [73 <./noty/a_rána-v-trávě.jpg>] (./noty/a_rosa-na-kolejích.tex
-<noty/a_rosa-na-kolejích.jpg, id=234, 355.5684pt x 887.4756pt>
+<noty/a_rosa-na-kolejích.jpg, id=244, 355.5684pt x 887.4756pt>
 File: noty/a_rosa-na-kolejích.jpg Graphic file (type jpg)
 <use noty/a_rosa-na-kolejích.jpg>
 Package pdftex.def Info: noty/a_rosa-na-kolejích.jpg  used on input line 4.
@@ -1216,13 +1249,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [74 <./noty/a_rosa-na-kolejích.jpg>] (./noty/a_růže-z-papíru.tex
-<noty/a_růže-z-papíru.jpg, id=238, 329.5512pt x 402.7848pt>
+<noty/a_růže-z-papíru.jpg, id=248, 329.5512pt x 402.7848pt>
 File: noty/a_růže-z-papíru.jpg Graphic file (type jpg)
 <use noty/a_růže-z-papíru.jpg>
 Package pdftex.def Info: noty/a_růže-z-papíru.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 368.63667pt.
 ) [75 <./noty/a_růže-z-papíru.jpg>] (./noty/a_ryl-jen-celej-den-ryl.tex
-<noty/a_ryl-jen-celej-den-ryl.jpg, id=243, 343.5234pt x 396.0396pt>
+<noty/a_ryl-jen-celej-den-ryl.jpg, id=252, 343.5234pt x 396.0396pt>
 File: noty/a_ryl-jen-celej-den-ryl.jpg Graphic file (type jpg)
 <use noty/a_ryl-jen-celej-den-ryl.jpg>
 Package pdftex.def Info: noty/a_ryl-jen-celej-den-ryl.jpg  used on input line 3
@@ -1235,13 +1268,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [76 <./noty/a_ryl-jen-celej-den-ryl.jpg>] (./noty/a_sáro.tex
-<noty/a_sáro.jpg, id=247, 326.6604pt x 451.9284pt>
+<noty/a_sáro.jpg, id=256, 326.6604pt x 451.9284pt>
 File: noty/a_sáro.jpg Graphic file (type jpg)
 <use noty/a_sáro.jpg>
 Package pdftex.def Info: noty/a_sáro.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 417.25488pt.
 ) [77 <./noty/a_sáro.jpg>] (./noty/a_severní-vítr.tex
-<noty/a_severní-vítr.jpg, id=251, 357.0138pt x 439.4016pt>
+<noty/a_severní-vítr.jpg, id=260, 357.0138pt x 439.4016pt>
 File: noty/a_severní-vítr.jpg Graphic file (type jpg)
 <use noty/a_severní-vítr.jpg>
 Package pdftex.def Info: noty/a_severní-vítr.jpg  used on input line 3.
@@ -1253,7 +1286,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [78 <./noty/a_severní-vítr.jpg>] (./noty/a_slavíci-z-madridu.tex
-<noty/a_slavíci-z-madridu.jpg, id=255, 357.4956pt x 389.7762pt>
+<noty/a_slavíci-z-madridu.jpg, id=264, 357.4956pt x 389.7762pt>
 File: noty/a_slavíci-z-madridu.jpg Graphic file (type jpg)
 <use noty/a_slavíci-z-madridu.jpg>
 Package pdftex.def Info: noty/a_slavíci-z-madridu.jpg  used on input line 3.
@@ -1265,20 +1298,20 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [80 <./noty/a_slavíci-z-madridu.jpg>] (./noty/a_soudný-den.tex
-<noty/a_soudný-den.jpg, id=259, 246.80205pt x 342.92114pt>
+<noty/a_soudný-den.jpg, id=269, 246.80205pt x 342.92114pt>
 File: noty/a_soudný-den.jpg Graphic file (type jpg)
 <use noty/a_soudný-den.jpg>
 Package pdftex.def Info: noty/a_soudný-den.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 419.0905pt.
 ) [81 <./noty/a_soudný-den.jpg>] (./noty/a_styskani.tex
-<noty/a_styskani.jpeg, id=263, 304.13625pt x 471.6822pt>
+<noty/a_styskani.jpeg, id=273, 304.13625pt x 471.6822pt>
 File: noty/a_styskani.jpeg Graphic file (type jpg)
 <use noty/a_styskani.jpeg>
 Package pdftex.def Info: noty/a_styskani.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 467.75851pt.
 ) [83 <./noty/a_styskani.jpeg>]
 (./noty/a_tak-už-mi-má-holka-mává.tex
-<noty/a_tak-už-mi-má-holka-mává.jpg, id=268, 226.9278pt x 458.1918pt>
+<noty/a_tak-už-mi-má-holka-mává.jpg, id=277, 226.9278pt x 458.1918pt>
 File: noty/a_tak-už-mi-má-holka-mává.jpg Graphic file (type jpg)
 <use noty/a_tak-už-mi-má-holka-mává.jpg>
 Package pdftex.def Info: noty/a_tak-už-mi-má-holka-mává.jpg  used on input 
@@ -1291,13 +1324,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [84 <./noty/a_tak-už-mi-má-holka-mává.jpg>] (./noty/a_tereza.tex
-<noty/a_tereza.jpg, id=272, 353.6412pt x 694.7556pt>
+<noty/a_tereza.jpg, id=281, 353.6412pt x 694.7556pt>
 File: noty/a_tereza.jpg Graphic file (type jpg)
 <use noty/a_tereza.jpg>
 Package pdftex.def Info: noty/a_tereza.jpg  used on input line 4.
 (pdftex.def)             Requested size: 241.28027pt x 474.02832pt.
 ) [85 <./noty/a_tereza.jpg>] (./noty/a_těšínská.tex
-<noty/a_těšínská.jpg, id=276, 349.7868pt x 488.0634pt>
+<noty/a_těšínská.jpg, id=285, 349.7868pt x 488.0634pt>
 File: noty/a_těšínská.jpg Graphic file (type jpg)
 <use noty/a_těšínská.jpg>
 Package pdftex.def Info: noty/a_těšínská.jpg  used on input line 3.
@@ -1309,14 +1342,14 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [86 <./noty/a_těšínská.jpg>] (./noty/a_tisíc-dnů-mezi-námi.tex
-<noty/a_tisíc-dnů-mezi-námi.jpg, id=280, 493.3632pt x 909.1566pt>
+<noty/a_tisíc-dnů-mezi-námi.jpg, id=289, 493.3632pt x 909.1566pt>
 File: noty/a_tisíc-dnů-mezi-námi.jpg Graphic file (type jpg)
 <use noty/a_tisíc-dnů-mezi-námi.jpg>
 Package pdftex.def Info: noty/a_tisíc-dnů-mezi-námi.jpg  used on input line 
 4.
 (pdftex.def)             Requested size: 257.3182pt x 474.17047pt.
 ) [87 <./noty/a_tisíc-dnů-mezi-námi.jpg>] (./noty/a_topič.tex
-<noty/a_topič.jpg, id=284, 319.9152pt x 225.4824pt>
+<noty/a_topič.jpg, id=294, 319.9152pt x 225.4824pt>
 File: noty/a_topič.jpg Graphic file (type jpg)
 <use noty/a_topič.jpg>
 Package pdftex.def Info: noty/a_topič.jpg  used on input line 4.
@@ -1333,7 +1366,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [88 <./noty/a_topič.jpg>] (./noty/a_to-ta-helpa.tex
-<noty/a_to-ta-helpa.jpg, id=288, 356.0502pt x 224.5188pt>
+<noty/a_to-ta-helpa.jpg, id=298, 356.0502pt x 224.5188pt>
 File: noty/a_to-ta-helpa.jpg Graphic file (type jpg)
 <use noty/a_to-ta-helpa.jpg>
 Package pdftex.def Info: noty/a_to-ta-helpa.jpg  used on input line 3.
@@ -1345,13 +1378,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [90 <./noty/a_to-ta-helpa.jpg>] (./noty/a_toulavej.tex
-<noty/a_toulavej.jpg, id=293, 358.4592pt x 314.6154pt>
+<noty/a_toulavej.jpg, id=302, 358.4592pt x 314.6154pt>
 File: noty/a_toulavej.jpg Graphic file (type jpg)
 <use noty/a_toulavej.jpg>
 Package pdftex.def Info: noty/a_toulavej.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 264.72159pt.
 ) [91 <./noty/a_toulavej.jpg>] (./noty/a_trampská.tex
-<noty/a_trampská.jpeg, id=297, 299.4387pt x 455.18056pt>
+<noty/a_trampská.jpeg, id=306, 299.4387pt x 455.18056pt>
 File: noty/a_trampská.jpeg Graphic file (type jpg)
 <use noty/a_trampská.jpeg>
 Package pdftex.def Info: noty/a_trampská.jpeg  used on input line 3.
@@ -1363,13 +1396,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [92 <./noty/a_trampská.jpeg>] (./noty/a_tři-kříže.tex
-<noty/a_tři-kříže.jpeg, id=301, 328.5876pt x 284.86424pt>
+<noty/a_tři-kříže.jpeg, id=310, 328.5876pt x 284.86424pt>
 File: noty/a_tři-kříže.jpeg Graphic file (type jpg)
 <use noty/a_tři-kříže.jpeg>
 Package pdftex.def Info: noty/a_tři-kříže.jpeg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 261.48279pt.
 ) [93 <./noty/a_tři-kříže.jpeg>] (./noty/a_tulácký-ráno.tex
-<noty/a_tulácký-ráno.jpg, id=305, 354.6048pt x 391.2216pt>
+<noty/a_tulácký-ráno.jpg, id=314, 354.6048pt x 391.2216pt>
 File: noty/a_tulácký-ráno.jpg Graphic file (type jpg)
 <use noty/a_tulácký-ráno.jpg>
 Package pdftex.def Info: noty/a_tulácký-ráno.jpg  used on input line 3.
@@ -1381,13 +1414,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [94 <./noty/a_tulácký-ráno.jpg>] (./noty/a_už-to-nenapravím.tex
-<noty/a_už-to-nenapravím.jpg, id=309, 498.1812pt x 438.438pt>
+<noty/a_už-to-nenapravím.jpg, id=319, 498.1812pt x 438.438pt>
 File: noty/a_už-to-nenapravím.jpg Graphic file (type jpg)
 <use noty/a_už-to-nenapravím.jpg>
 Package pdftex.def Info: noty/a_už-to-nenapravím.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 265.43977pt.
 ) [95 <./noty/a_už-to-nenapravím.jpg>] (./noty/a_válka-růží.tex
-<noty/a_válka-růží.jpg, id=313, 357.0138pt x 293.898pt>
+<noty/a_válka-růží.jpg, id=323, 357.0138pt x 293.898pt>
 File: noty/a_válka-růží.jpg Graphic file (type jpg)
 <use noty/a_válka-růží.jpg>
 Package pdftex.def Info: noty/a_válka-růží.jpg  used on input line 3.
@@ -1399,7 +1432,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [96 <./noty/a_válka-růží.jpg>] (./noty/a_velrybářská-výprava.tex
-<noty/a_velrybářská-výprava.jpg, id=318, 355.0866pt x 370.5042pt>
+<noty/a_velrybářská-výprava.jpg, id=327, 355.0866pt x 370.5042pt>
 File: noty/a_velrybářská-výprava.jpg Graphic file (type jpg)
 <use noty/a_velrybářská-výprava.jpg>
 Package pdftex.def Info: noty/a_velrybářská-výprava.jpg  used on input line
@@ -1407,7 +1440,7 @@ Package pdftex.def Info: noty/a_velrybářská-výprava.jpg  used on input line
 (pdftex.def)             Requested size: 301.5992pt x 314.70956pt.
 )
 [97 <./noty/a_velrybářská-výprava.jpg>] (./noty/a_vlajka.tex
-<noty/a_vlajka.jpg, id=322, 356.0502pt x 466.3824pt>
+<noty/a_vlajka.jpg, id=331, 356.0502pt x 466.3824pt>
 File: noty/a_vlajka.jpg Graphic file (type jpg)
 <use noty/a_vlajka.jpg>
 Package pdftex.def Info: noty/a_vlajka.jpg  used on input line 3.
@@ -1419,13 +1452,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [98 <./noty/a_vlajka.jpg>] (./noty/a_vstávej-holka.tex
-<noty/a_vstávej-holka.jpg, id=326, 317.5062pt x 212.4738pt>
+<noty/a_vstávej-holka.jpg, id=335, 317.5062pt x 212.4738pt>
 File: noty/a_vstávej-holka.jpg Graphic file (type jpg)
 <use noty/a_vstávej-holka.jpg>
 Package pdftex.def Info: noty/a_vstávej-holka.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 201.8295pt.
 ) [99 <./noty/a_vstávej-holka.jpg>] (./noty/a_zabili-zabili.tex
-<noty/a_zabili-zabili.jpg, id=330, 491.436pt x 318.7107pt>
+<noty/a_zabili-zabili.jpg, id=339, 491.436pt x 318.7107pt>
 File: noty/a_zabili-zabili.jpg Graphic file (type jpg)
 <use noty/a_zabili-zabili.jpg>
 Package pdftex.def Info: noty/a_zabili-zabili.jpg  used on input line 3.
@@ -1437,13 +1470,13 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [100 <./noty/a_zabili-zabili.jpg>] (./noty/a_zafúkané.tex
-<noty/a_zafúkané.jpg, id=334, 488.5452pt x 655.248pt>
+<noty/a_zafúkané.jpg, id=344, 488.5452pt x 655.248pt>
 File: noty/a_zafúkané.jpg Graphic file (type jpg)
 <use noty/a_zafúkané.jpg>
 Package pdftex.def Info: noty/a_zafúkané.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 404.51987pt.
 ) [101 <./noty/a_zafúkané.jpg>] (./noty/a_zatanči.tex
-<noty/a_zatanči.jpg, id=338, 346.896pt x 259.2084pt>
+<noty/a_zatanči.jpg, id=348, 346.896pt x 259.2084pt>
 File: noty/a_zatanči.jpg Graphic file (type jpg)
 <use noty/a_zatanči.jpg>
 Package pdftex.def Info: noty/a_zatanči.jpg  used on input line 3.
@@ -1455,14 +1488,14 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [102 <./noty/a_zatanči.jpg>] (./noty/a_zítra-ráno-v-pět.tex
-<noty/a_zítra-ráno-v-pět.jpg, id=343, 344.0052pt x 206.6922pt>
+<noty/a_zítra-ráno-v-pět.jpg, id=352, 344.0052pt x 206.6922pt>
 File: noty/a_zítra-ráno-v-pět.jpg Graphic file (type jpg)
 <use noty/a_zítra-ráno-v-pět.jpg>
 Package pdftex.def Info: noty/a_zítra-ráno-v-pět.jpg  used on input line 3.
 (pdftex.def)             Requested size: 301.5992pt x 181.21475pt.
 ) [103 <./noty/a_zítra-ráno-v-pět.jpg>] (./noty/b_AA.tex) (./noty/b_Apoštol
 ská.tex
-<noty/b_Apoštolská.jpg, id=347, 115.632pt x 133.6995pt>
+<noty/b_Apoštolská.jpg, id=356, 115.632pt x 133.6995pt>
 File: noty/b_Apoštolská.jpg Graphic file (type jpg)
 <use noty/b_Apoštolská.jpg>
 Package pdftex.def Info: noty/b_Apoštolská.jpg  used on input line 3.
@@ -1473,7 +1506,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Boží-radost-jako-řeka.tex
-<noty/b_Boží-radost-jako-řeka.jpg, id=348, 113.223pt x 100.6962pt>
+<noty/b_Boží-radost-jako-řeka.jpg, id=357, 113.223pt x 100.6962pt>
 File: noty/b_Boží-radost-jako-řeka.jpg Graphic file (type jpg)
 <use noty/b_Boží-radost-jako-řeka.jpg>
 Package pdftex.def Info: noty/b_Boží-radost-jako-řeka.jpg  used on input lin
@@ -1485,7 +1518,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Bůh-je-záštita-má.tex
-<noty/b_Bůh-je-záštita-má.jpg, id=349, 113.4639pt x 116.1138pt>
+<noty/b_Bůh-je-záštita-má.jpg, id=358, 113.4639pt x 116.1138pt>
 File: noty/b_Bůh-je-záštita-má.jpg Graphic file (type jpg)
 <use noty/b_Bůh-je-záštita-má.jpg>
 Package pdftex.def Info: noty/b_Bůh-je-záštita-má.jpg  used on input line 3
@@ -1497,7 +1530,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Effatha.tex
-<noty/b_Effatha.jpg, id=350, 114.1866pt x 112.5003pt>
+<noty/b_Effatha.jpg, id=359, 114.1866pt x 112.5003pt>
 File: noty/b_Effatha.jpg Graphic file (type jpg)
 <use noty/b_Effatha.jpg>
 Package pdftex.def Info: noty/b_Effatha.jpg  used on input line 3.
@@ -1509,7 +1542,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
 
 ) [105 <./noty/b_Apoštolská.jpg> <./noty/b_Boží-radost-jako-řeka.jpg> <./n
 oty/b_Bůh-je-záštita-má.jpg> <./noty/b_Effatha.jpg>] (./noty/b_Hosana.tex
-<noty/b_Hosana.jpg, id=354, 114.4275pt x 133.6995pt>
+<noty/b_Hosana.jpg, id=363, 114.4275pt x 133.6995pt>
 File: noty/b_Hosana.jpg Graphic file (type jpg)
 <use noty/b_Hosana.jpg>
 Package pdftex.def Info: noty/b_Hosana.jpg  used on input line 3.
@@ -1520,14 +1553,14 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Jsem-všechno-co-nemáš.tex
-<noty/b_Jsem-všechno-co-nemáš.jpg, id=355, 114.6684pt x 192.4791pt>
+<noty/b_Jsem-všechno-co-nemáš.jpg, id=364, 114.6684pt x 192.4791pt>
 File: noty/b_Jsem-všechno-co-nemáš.jpg Graphic file (type jpg)
 <use noty/b_Jsem-všechno-co-nemáš.jpg>
 Package pdftex.def Info: noty/b_Jsem-všechno-co-nemáš.jpg  used on input lin
 e 3.
 (pdftex.def)             Requested size: 135.7187pt x 227.83702pt.
 ) (./noty/b_Laudato-si.tex
-<noty/b_Laudato-si.jpg, id=356, 113.223pt x 84.315pt>
+<noty/b_Laudato-si.jpg, id=365, 113.223pt x 84.315pt>
 File: noty/b_Laudato-si.jpg Graphic file (type jpg)
 <use noty/b_Laudato-si.jpg>
 Package pdftex.def Info: noty/b_Laudato-si.jpg  used on input line 3.
@@ -1538,7 +1571,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Modlitba-sv-Tomáše.tex
-<noty/b_Modlitba-sv-Tomáše.jpg, id=357, 114.4275pt x 84.5559pt>
+<noty/b_Modlitba-sv-Tomáše.jpg, id=366, 114.4275pt x 84.5559pt>
 File: noty/b_Modlitba-sv-Tomáše.jpg Graphic file (type jpg)
 <use noty/b_Modlitba-sv-Tomáše.jpg>
 Package pdftex.def Info: noty/b_Modlitba-sv-Tomáše.jpg  used on input line 3.
@@ -1550,7 +1583,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Na-Golgotu.tex
-<noty/b_Na-Golgotu.jpg, id=358, 484.81125pt x 546.04pt>
+<noty/b_Na-Golgotu.jpg, id=367, 484.81125pt x 546.04pt>
 File: noty/b_Na-Golgotu.jpg Graphic file (type jpg)
 <use noty/b_Na-Golgotu.jpg>
 Package pdftex.def Info: noty/b_Na-Golgotu.jpg  used on input line 3.
@@ -1564,7 +1597,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 [108 <./noty/b_Hosana.jpg> <./noty/b_Jsem-všechno-co-nemáš.jpg> <./noty/b_La
 udato-si.jpg> <./noty/b_Modlitba-sv-Tomáše.jpg> <./noty/b_Na-Golgotu.jpg>]
 (./noty/b_Nám-pane-dal-jsi-slovo-své.tex
-<noty/b_Nám-pane-dal-jsi-slovo-své.jpg, id=362, 115.1502pt x 180.9159pt>
+<noty/b_Nám-pane-dal-jsi-slovo-své.jpg, id=371, 115.1502pt x 180.9159pt>
 File: noty/b_Nám-pane-dal-jsi-slovo-své.jpg Graphic file (type jpg)
 <use noty/b_Nám-pane-dal-jsi-slovo-své.jpg>
 Package pdftex.def Info: noty/b_Nám-pane-dal-jsi-slovo-své.jpg  used on input
@@ -1576,7 +1609,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Neseme-pane-chléb-a-víno.tex
-<noty/b_Neseme-pane-chléb-a-víno.jpg, id=363, 114.6684pt x 111.2958pt>
+<noty/b_Neseme-pane-chléb-a-víno.jpg, id=372, 114.6684pt x 111.2958pt>
 File: noty/b_Neseme-pane-chléb-a-víno.jpg Graphic file (type jpg)
 <use noty/b_Neseme-pane-chléb-a-víno.jpg>
 Package pdftex.def Info: noty/b_Neseme-pane-chléb-a-víno.jpg  used on input l
@@ -1588,7 +1621,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Ó-pane-zhasíná-den.tex
-<noty/b_Ó-pane-zhasíná-den.jpg, id=364, 113.9457pt x 126.4725pt>
+<noty/b_Ó-pane-zhasíná-den.jpg, id=373, 113.9457pt x 126.4725pt>
 File: noty/b_Ó-pane-zhasíná-den.jpg Graphic file (type jpg)
 <use noty/b_Ó-pane-zhasíná-den.jpg>
 Package pdftex.def Info: noty/b_Ó-pane-zhasíná-den.jpg  used on input line 3
@@ -1600,7 +1633,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_oPojď-ke-mně-blíž.tex
-<noty/b_oPojď-ke-mně-blíž.jpg, id=365, 114.6684pt x 90.8193pt>
+<noty/b_oPojď-ke-mně-blíž.jpg, id=374, 114.6684pt x 90.8193pt>
 File: noty/b_oPojď-ke-mně-blíž.jpg Graphic file (type jpg)
 <use noty/b_oPojď-ke-mně-blíž.jpg>
 Package pdftex.def Info: noty/b_oPojď-ke-mně-blíž.jpg  used on input line 3
@@ -1620,7 +1653,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 [110 <./noty/b_Nám-pane-dal-jsi-slovo-své.jpg> <./noty/b_Neseme-pane-chléb-a
 -víno.jpg> <./noty/b_Ó-pane-zhasíná-den.jpg> <./noty/b_oPojď-ke-mně-blí�
 �.jpg>] (./noty/b_Ordinárium.tex
-<noty/c_o4-kyrie.jpeg, id=369, 114.4275pt x 75.4017pt>
+<noty/c_o4-kyrie.jpeg, id=379, 114.4275pt x 75.4017pt>
 File: noty/c_o4-kyrie.jpeg Graphic file (type jpg)
 <use noty/c_o4-kyrie.jpeg>
 Package pdftex.def Info: noty/c_o4-kyrie.jpeg  used on input line 4.
@@ -1630,7 +1663,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 4--5
 [] 
  []
 
-<noty/c_o4-gloria.jpeg, id=370, 498.86375pt x 878.28125pt>
+<noty/c_o4-gloria.jpeg, id=380, 498.86375pt x 878.28125pt>
 File: noty/c_o4-gloria.jpeg Graphic file (type jpg)
 <use noty/c_o4-gloria.jpeg>
 Package pdftex.def Info: noty/c_o4-gloria.jpeg  used on input line 6.
@@ -1640,7 +1673,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 6--8
 []
  []
 
-<noty/c_o4-credo.jpeg, id=371, 113.223pt x 71.7882pt>
+<noty/c_o4-credo.jpeg, id=381, 113.223pt x 71.7882pt>
 File: noty/c_o4-credo.jpeg Graphic file (type jpg)
 <use noty/c_o4-credo.jpeg>
 Package pdftex.def Info: noty/c_o4-credo.jpeg  used on input line 9.
@@ -1650,7 +1683,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 9--10
 [] 
  []
 
-<noty/c_o4-sanctus.jpeg, id=372, 113.223pt x 124.0635pt>
+<noty/c_o4-sanctus.jpeg, id=382, 113.223pt x 124.0635pt>
 File: noty/c_o4-sanctus.jpeg Graphic file (type jpg)
 <use noty/c_o4-sanctus.jpeg>
 Package pdftex.def Info: noty/c_o4-sanctus.jpeg  used on input line 11.
@@ -1660,7 +1693,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 11--12
 [] 
  []
 
-<noty/c_o4-agnus-dei.jpeg, id=373, 115.1502pt x 93.4692pt>
+<noty/c_o4-agnus-dei.jpeg, id=383, 115.1502pt x 93.4692pt>
 File: noty/c_o4-agnus-dei.jpeg Graphic file (type jpg)
 <use noty/c_o4-agnus-dei.jpeg>
 Package pdftex.def Info: noty/c_o4-agnus-dei.jpeg  used on input line 13.
@@ -1673,7 +1706,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 13--14
 ) [111 <./noty/c_o4-kyrie.jpeg> <./noty/c_o4-gloria.jpeg> <./noty/c_o4-credo.jp
 eg> <./noty/c_o4-sanctus.jpeg> <./noty/c_o4-agnus-dei.jpeg>]
 (./noty/b_Pojďte-ke-mně-všichni.tex
-<noty/b_Pojďte-ke-mně-všichni.png, id=377, 457.71pt x 756.8275pt>
+<noty/b_Pojďte-ke-mně-všichni.png, id=387, 457.71pt x 756.8275pt>
 File: noty/b_Pojďte-ke-mně-všichni.png Graphic file (type png)
 <use noty/b_Pojďte-ke-mně-všichni.png>
 Package pdftex.def Info: noty/b_Pojďte-ke-mně-všichni.png  used on input lin
@@ -1685,7 +1718,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Posba-k-Duchu-svatému.tex
-<noty/b_Posba-k-Duchu-svatému.jpg, id=379, 113.223pt x 124.5453pt>
+<noty/b_Posba-k-Duchu-svatému.jpg, id=389, 113.223pt x 124.5453pt>
 File: noty/b_Posba-k-Duchu-svatému.jpg Graphic file (type jpg)
 <use noty/b_Posba-k-Duchu-svatému.jpg>
 Package pdftex.def Info: noty/b_Posba-k-Duchu-svatému.jpg  used on input line 
@@ -1697,7 +1730,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Prijímám.tex
-<noty/b_Prijímám.jpg, id=380, 473.77pt x 332.24126pt>
+<noty/b_Prijímám.jpg, id=390, 473.77pt x 332.24126pt>
 File: noty/b_Prijímám.jpg Graphic file (type jpg)
 <use noty/b_Prijímám.jpg>
 Package pdftex.def Info: noty/b_Prijímám.jpg  used on input line 3.
@@ -1708,7 +1741,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Prijmi-pane.tex
-<noty/b_Prijmi-pane.jpg, id=381, 113.7048pt x 172.0026pt>
+<noty/b_Prijmi-pane.jpg, id=391, 113.7048pt x 172.0026pt>
 File: noty/b_Prijmi-pane.jpg Graphic file (type jpg)
 <use noty/b_Prijmi-pane.jpg>
 Package pdftex.def Info: noty/b_Prijmi-pane.jpg  used on input line 3.
@@ -1726,7 +1759,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 [114 <./noty/b_Pojďte-ke-mně-všichni.png> <./noty/b_Posba-k-Duchu-svatému.j
 pg> <./noty/b_Prijímám.jpg> <./noty/b_Prijmi-pane.jpg>])
 (./noty/b_Připravujte-cestu.tex
-<noty/b_Připravujte-cestu.jpg, id=387, 115.632pt x 202.5969pt>
+<noty/b_Připravujte-cestu.jpg, id=396, 115.632pt x 202.5969pt>
 File: noty/b_Připravujte-cestu.jpg Graphic file (type jpg)
 <use noty/b_Připravujte-cestu.jpg>
 Package pdftex.def Info: noty/b_Připravujte-cestu.jpg  used on input line 3.
@@ -1737,13 +1770,13 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--4
  []
 
 ) (./noty/b_ptZde-jsem.tex
-<noty/b_Zde-jsem.png, id=388, 458.71375pt x 962.59625pt>
+<noty/b_Zde-jsem.png, id=397, 458.71375pt x 962.59625pt>
 File: noty/b_Zde-jsem.png Graphic file (type png)
 <use noty/b_Zde-jsem.png>
 Package pdftex.def Info: noty/b_Zde-jsem.png  used on input line 3.
 (pdftex.def)             Requested size: 123.65677pt x 259.4785pt.
 ) (./noty/b_Půjdeš-li-pouští.tex
-<noty/b_Půjdeš-li-pouští.jpg, id=389, 437.38406pt x 254.45062pt>
+<noty/b_Půjdeš-li-pouští.jpg, id=398, 437.38406pt x 254.45062pt>
 File: noty/b_Půjdeš-li-pouští.jpg Graphic file (type jpg)
 <use noty/b_Půjdeš-li-pouští.jpg>
 Package pdftex.def Info: noty/b_Půjdeš-li-pouští.jpg  used on input line 4.
@@ -1757,7 +1790,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 
 [116 <./noty/b_Připravujte-cestu.jpg> <./noty/b_Zde-jsem.png> <./noty/b_Půjde
 š-li-pouští.jpg>] (./noty/b_Slunce-kristovy-lásky.tex
-<noty/b_Slunce-kristovy-lásky.jpg, id=394, 115.3911pt x 105.7551pt>
+<noty/b_Slunce-kristovy-lásky.jpg, id=403, 115.3911pt x 105.7551pt>
 File: noty/b_Slunce-kristovy-lásky.jpg Graphic file (type jpg)
 <use noty/b_Slunce-kristovy-lásky.jpg>
 Package pdftex.def Info: noty/b_Slunce-kristovy-lásky.jpg  used on input line 
@@ -1769,7 +1802,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Spoj-nás-v-jedno.tex
-<noty/b_Spoj-nás-v-jedno.jpg, id=395, 115.8729pt x 166.4619pt>
+<noty/b_Spoj-nás-v-jedno.jpg, id=404, 115.8729pt x 166.4619pt>
 File: noty/b_Spoj-nás-v-jedno.jpg Graphic file (type jpg)
 <use noty/b_Spoj-nás-v-jedno.jpg>
 Package pdftex.def Info: noty/b_Spoj-nás-v-jedno.jpg  used on input line 3.
@@ -1780,7 +1813,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Světem-běžím-dál.tex
-<noty/b_Světem-běžím-dál.jpg, id=396, 486.81876pt x 731.73375pt>
+<noty/b_Světem-běžím-dál.jpg, id=405, 486.81876pt x 731.73375pt>
 File: noty/b_Světem-běžím-dál.jpg Graphic file (type jpg)
 <use noty/b_Světem-běžím-dál.jpg>
 Package pdftex.def Info: noty/b_Světem-běžím-dál.jpg  used on input line 3
@@ -1792,7 +1825,7 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
  []
 
 ) (./noty/b_Svorni-jsme.tex
-<noty/b_Svorni-jsme.jpg, id=397, 115.632pt x 112.9821pt>
+<noty/b_Svorni-jsme.jpg, id=406, 115.632pt x 112.9821pt>
 File: noty/b_Svorni-jsme.jpg Graphic file (type jpg)
 <use noty/b_Svorni-jsme.jpg>
 Package pdftex.def Info: noty/b_Svorni-jsme.jpg  used on input line 3.
@@ -1805,14 +1838,14 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 3--3
 ) [117 <./noty/b_Slunce-kristovy-lásky.jpg> <./noty/b_Spoj-nás-v-jedno.jpg> <
 ./noty/b_Světem-běžím-dál.jpg> <./noty/b_Svorni-jsme.jpg>]
 (./noty/b_Svý-kroky-rozezpívej.tex
-<noty/b_Svý-kroky-rozezpívej.jpg, id=401, 115.1502pt x 245.2362pt>
+<noty/b_Svý-kroky-rozezpívej.jpg, id=410, 115.1502pt x 245.2362pt>
 File: noty/b_Svý-kroky-rozezpívej.jpg Graphic file (type jpg)
 <use noty/b_Svý-kroky-rozezpívej.jpg>
 Package pdftex.def Info: noty/b_Svý-kroky-rozezpívej.jpg  used on input line 
 3.
 (pdftex.def)             Requested size: 132.70438pt x 282.64061pt.
 ) (./noty/b_Tobě-patří-chvála.tex
-<noty/b_Tobě-patří-chvála.jpg, id=402, 114.6684pt x 129.8451pt>
+<noty/b_Tobě-patří-chvála.jpg, id=411, 114.6684pt x 129.8451pt>
 File: noty/b_Tobě-patří-chvála.jpg Graphic file (type jpg)
 <use noty/b_Tobě-patří-chvála.jpg>
 Package pdftex.def Info: noty/b_Tobě-patří-chvála.jpg  used on input line 4
@@ -1820,13 +1853,13 @@ Package pdftex.def Info: noty/b_Tobě-patří-chvála.jpg  used on input line 4
 (pdftex.def)             Requested size: 135.7187pt x 153.69731pt.
 )
 (./noty/b_Vše-co-mohu-dát.tex
-<noty/b_Vše-co-mohu-dát.jpg, id=403, 113.9457pt x 171.7617pt>
+<noty/b_Vše-co-mohu-dát.jpg, id=412, 113.9457pt x 171.7617pt>
 File: noty/b_Vše-co-mohu-dát.jpg Graphic file (type jpg)
 <use noty/b_Vše-co-mohu-dát.jpg>
 Package pdftex.def Info: noty/b_Vše-co-mohu-dát.jpg  used on input line 3.
 (pdftex.def)             Requested size: 135.7187pt x 204.59552pt.
 ) (./noty/b_Vychází.tex
-<noty/b_Vychází.jpg, id=404, 485.815pt x 660.4675pt>
+<noty/b_Vychází.jpg, id=413, 485.815pt x 660.4675pt>
 File: noty/b_Vychází.jpg Graphic file (type jpg)
 <use noty/b_Vychází.jpg>
 Package pdftex.def Info: noty/b_Vychází.jpg  used on input line 3.
@@ -1835,7 +1868,7 @@ Package pdftex.def Info: noty/b_Vychází.jpg  used on input line 3.
 > <./noty/b_Vše-co-mohu-dát.jpg> <./noty/b_Vychází.jpg>]) (./noty/c_aa.tex)
 
 (./noty/c_take-me-home-country-roads.tex
-<noty/c_take-me-home-country-roads.jpg, id=408, 358.4592pt x 493.845pt>
+<noty/c_take-me-home-country-roads.jpg, id=417, 358.4592pt x 493.845pt>
 File: noty/c_take-me-home-country-roads.jpg Graphic file (type jpg)
 <use noty/c_take-me-home-country-roads.jpg>
 Package pdftex.def Info: noty/c_take-me-home-country-roads.jpg  used on input l
@@ -1849,7 +1882,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 
 [126 <./noty/c_take-me-home-country-roads.jpg>]
 (./noty/c_the-house-of-the-rising-sun.tex
-<noty/c_the-house-of-the-rising-sun.jpg, id=412, 353.1594pt x 400.3758pt>
+<noty/c_the-house-of-the-rising-sun.jpg, id=422, 353.1594pt x 400.3758pt>
 File: noty/c_the-house-of-the-rising-sun.jpg Graphic file (type jpg)
 <use noty/c_the-house-of-the-rising-sun.jpg>
 Package pdftex.def Info: noty/c_the-house-of-the-rising-sun.jpg  used on input 
@@ -1862,7 +1895,7 @@ Package fancyhdr Warning: \footskip is too small (13.73131pt):
 (fancyhdr)                \setlength{\footskip}{14.49998pt}.
 
 [128 <./noty/c_the-house-of-the-rising-sun.jpg>])
-<noty/akordy.jpeg, id=416, 490.4724pt x 698.61pt>
+<noty/akordy.jpeg, id=426, 490.4724pt x 698.61pt>
 File: noty/akordy.jpeg Graphic file (type jpg)
 <use noty/akordy.jpeg>
 Package pdftex.def Info: noty/akordy.jpeg  used on input line 69.
@@ -1879,7 +1912,7 @@ Package fancyhdr Warning: \headheight is too small (15.1767pt):
 [129
 
  <./noty/akordy.jpeg>]
-<noty/rytmy.jpeg, id=421, 492.3996pt x 691.8648pt>
+<noty/rytmy.jpeg, id=430, 492.3996pt x 691.8648pt>
 File: noty/rytmy.jpeg Graphic file (type jpg)
 <use noty/rytmy.jpeg>
 Package pdftex.def Info: noty/rytmy.jpeg  used on input line 75.
@@ -1928,10 +1961,10 @@ L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 17491 strings out of 474222
- 373616 string characters out of 5748733
- 1955975 words of memory out of 5000000
- 39124 multiletter control sequences out of 15000+600000
+ 17542 strings out of 474222
+ 375041 string characters out of 5748733
+ 1954975 words of memory out of 5000000
+ 39169 multiletter control sequences out of 15000+600000
  607985 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,13n,101p,442b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1941,10 +1974,10 @@ sr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/pu
 blic/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share
 /texmf/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmss12.pfb>
-Output written on noty.pdf (93 pages, 39731274 bytes).
+Output written on noty.pdf (95 pages, 40610055 bytes).
 PDF statistics:
- 469 PDF objects out of 1000 (max. 8388607)
- 237 compressed objects within 3 object streams
+ 478 PDF objects out of 1000 (max. 8388607)
+ 241 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 593 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 608 words of extra memory for PDF output out of 10000 (max. 10000000)
 

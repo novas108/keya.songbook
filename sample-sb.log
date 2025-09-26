@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.24)  24 APR 2025 23:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.9.26)  26 SEP 2025 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1297,7 +1297,7 @@ L3 programming layer <2024-01-22>
 Here is how much of TeX's memory you used:
  16158 strings out of 474222
  329304 string characters out of 5748733
- 1956975 words of memory out of 5000000
+ 1955975 words of memory out of 5000000
  37728 multiletter control sequences out of 15000+600000
  630065 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1312,7 +1312,7 @@ nts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.p
 fb></usr/share/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/t
 ype1/public/lm/lmss12.pfb></usr/share/texmf/fonts/type1/public/lm/lmssdc10.pfb>
 </usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on sample-sb.pdf (122 pages, 1982600 bytes).
+Output written on sample-sb.pdf (122 pages, 1982618 bytes).
 PDF statistics:
  488 PDF objects out of 1000 (max. 8388607)
  325 compressed objects within 4 object streams
